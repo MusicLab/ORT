@@ -1,0 +1,697 @@
+userid,Apellido(s),Nombre,Nombre de usuario,Institución,Departamento,1-Sede,2-Carrera,class,groupid,1° Parcial Ambas Sedes,1° Recuperatorio Ambas Sedes,1°Recuperatorio,2° Parcial Ambas Sedes,2° Recuperatorio Ambas Sedes,2°Parcial,2°Recuperatorio  Ambas Sedes,Algoritmos: Primeros Diagramas,Asistencia,Clases y Objetos (Antiguo),Curso,Final Julio 2020.,Grupo TPrac,Introducción a la programación y los algoritmos,Introducción al POO,Nota Final 1°Llamado Julio 2020,Nota Final Cursada (REQUERIDO POR LA COORDINACIÓN),Trabajo Práctico Final  Ambas Sedes,Trabajo Práctico Nro 2,Trabajo Práctico Nº 1,Trabajo Práctico Nº 2,Trabajo Práctico Nº 3,Trabajo Práctico Nº 4
+74,Contente,Sebastian,scontente,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+179,Capurisse Tosco,Edgard Wilso,92876136,-,,-,,,YA-FPRK,"6,00",-,-,"4,00",-,-,-,-,"6,67",-,-,"7,00",-,-,-,7 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+191,Etchebarne Del Campo,Esteban Eduardo,36846688,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+288,Morales,Ignacio,95077860,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+295,COHEN,JAVIER,33667326,almagro,,almagro,,,YA-FPRJ,-,-,-,"2,00",-,-,-,-,"7,50",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+352,Ezquenazi,Lucas,38601426,-,,-,,,YA-FPRE,"9,00",-,-,"4,00",-,-,-,-,-,-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+695,Xxx,Xxx,xxx,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+933,Arroyo,Omar,35363549,-,,-,,,YA-FPRI,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+950,Saban,Brian,39352894,Almagro,ASC,Almagro,ASC,,YA-FPRC,"4,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1010,Lichtensztein,Eric,39353376,Almagro,ASC,Almagro,ASC,,YA-FPRG,"6,00","2,00",-,"2,00","10,00",-,-,-,"10,00",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+1060,Propatto Y Cafaro,Federico,34362569,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+1155,Grandinetti,Federico Martin,38993029,-,,-,,A,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+1169,Lipnjak,Brian Emmanuel,31641866,-,,-,,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+1227,Tuculet,Iago Augusto,41223186,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+1281,Perrino,Julian Agustin,40011386,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1322,Abdala,Simon,40980608,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"4,00","2,00",-,"2,00","5,00",-,-,-,-,-,-,-,-,"10,00",-,-,5 - Aprobado,-,-,-,-,-,-
+1363,Cravenna,Leonardo Ezequiel,36931007,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"7,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+1366,GONZALEZ,ALEJANDRO ENRIQUE,34493593,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+1396,Aranibar Gonzalez,Federico Matías,38305004,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,-,-,-,-,-,-,-
+1407,Biancolin,Matias Gustavo,37996639,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+1408,Blanco Chavarria,Ivan Alexis,36297762,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-,4 - Aprobado,-,-,-,-,-,-,-
+1416,Caliba,Nicolas Diego,39270094,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1431,Ciffoni Livio,Lucas Santiago,41351673,-,,-,,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1469,Godoy Leiva,Federico,32144887,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-
+1528,SAINTE MARIE,EUGENIO,38707149,Almagro,ASC,Almagro,ASC,,NO ACREDITADOS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1593,Danilo,Escudero,39644702,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+1641,Di Trana,Ezequiel Daniel,33810453,-,,-,,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1685,Soler,Diego,32439638,Belgrano,ASC,Belgrano,ASC,,YA-FPRD,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1717,Garcia Bailez,Franco,33985295,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,5 - Aprobado,-,-,-,-,-,-,-
+1725,Luiso,Ricardo,33373023,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+1729,Mertens,Santiago,36080048,Belgrano,ASC,Belgrano,ASC,A,BE-FPRD,"2,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+1736,Ostinelli,Roberto Oscar,35378304,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"1,00",-,-,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+1782,García D'Auro,Ramiro,39872740,Belgrano,Sistemas,Belgrano,Sistemas,,BE-FPRH,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+1861,Nardi,Nicolas Federico,40540857,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-
+1870,Slaj,Pablo Lucas,36696704,Almagro,ASC,Almagro,ASC,,YA-FPRA,"5,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+1882,FERNANDEZ,JUAN JOSE,37371801,almagro,ASC,almagro,ASC,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+1891,Mousseigne,Nehueln,42498828,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+1921,Pecondon,Leonel,36881139,Almagro,ASC,Almagro,ASC,,BE-FPRB,"2,00",-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+1922,Pileckas,Damian Esteban,41560915,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,-,-,-,-,-,-,-
+2035,Di Modugno,Mariano,36646052,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2044,Machado,Agostina Nahir,41003766,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,-,-,-,-,-,-,-
+2046,Diaz,Joel,30260519,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,-,-,-,"9,00",-,-,-,-,"10,00",-,-,"1,00",-,-,-,1 - Reprobado,5 - Aprobado,-,-,-,-,-,-
+2079,Gerola Onsari,Thomas Dario,42998814,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"4,00","2,00",-,-,"0,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2084,Karakachian,Joaquin,35357866,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2101,Pose,Lucas Andres,38857981,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2112,Ventura,Luciano,39387916,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2114,Vuylsteke,Kevin Martin,37027099,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2151,Dalotta,Luciano Federico,42647435,Almagro,ASC,Almagro,ASC,,YA-FPRC,"6,00","2,00",-,"2,00","7,00",-,-,-,-,-,-,-,-,-,-,Ausente,7 - Aprobado,-,-,-,-,-,-
+2160,FAVRE,NAZARENO OMAR,41195743,Almagro,ASC,Almagro,ASC,A,YA-FPRA,"4,00",-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2162,Fiasche,Lucas Martin,40007756,Almagro,ASC,Almagro,ASC,,YA-FPRC,"1,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2183,Loria,Sofia,42302052,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2194,Mota,Juan Pablo,39915584,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2198,Nuñez,Javier Maximiliano,30230394,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2202,Parada Zanotti,Juan Manuel,40011974,Almagro,ASC,Almagro,ASC,,YA-FPRC,"1,00","2,00",-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2264,Bronsztein,Alan Uriel,41918430,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-,4 - Aprobado,-,-,-,-,-,-,-
+2272,Carlo,Karina susana,18854687,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,"1,00",-,"2,00",-,-,-,-,-,-,-,-,-,"10,00",-,-,3 - Reprobado,-,-,-,-,-,-
+2280,Castro Martinez,Gaston,39207818,Almagro,ASC,Almagro,ASC,A,FINAL,-,-,-,-,-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-
+2284,CHAVEZ,GISELLE,32149924,almagro,ASC,almagro,ASC,,YA-FPRA,"5,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+2292,Costi,Marcos,43321329,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2295,Crivelli,Augusto,36903846,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2307,Espinola,Julieta,34754853,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2318,Gaspar,Lucía,41557605,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2326,Hashiba,Fernando,31407854,Almagro,ASC,Almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2327,Humano,Nara Esther,34682207,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2333,Jamschon,Martin Ariel,41899931,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2346,Marini Bruno,Bruno,42658219,Almagro,ASC,Almagro,ASC,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2354,Montiel,Alexis Emiliano,40021174,Almagro,ASC,Almagro,ASC,,YA-FPRA,"5,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"4,00",-,-,-,4 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+2357,Orlandelli,Lucia Paula,39558238,Almagro,ASC,Almagro,ASC,,YA-FPRD,"7,00","4,00",-,"2,00",-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2358,Ortiz,Aldo Ezequiel,35569307,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2360,Orue,Andres Pablo,36930199,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2368,Postorivo,Tomas Manuel,41200110,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2369,Quijano,Federico,38356686,Almagro,ASC,Almagro,ASC,,YA-FPRC,"2,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2370,QUISPE CALIZAYA,LUIS ALBERTO,92849913,Almagro,ASC,Almagro,ASC,,YA-FPRB,"8,00",-,-,"0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2376,Riveros Medina,Myrian,94696280,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2387,Sosa,Damian Albano,33111203,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2391,Straface,Tomas Agustin,43100559,Almagro,ASC,Almagro,ASC,,YA-FPRA,"6,00","2,00",-,"2,00","6,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+2393,Svarter,Fernando Elian,36929971,Almagro,ASC,Almagro,ASC,,YA-FPRG,"9,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2400,Venturini,Santiago Luis,39211732,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2408,Yulan,Graciela,24923908,Almagro,ASC,Almagro,ASC,,YA-FPRE,"9,00",-,-,"7,00",-,-,-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+2446,Crognale,Lara,36826988,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2450,Giacomozzi,Giuliano,42494032,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2454,Liste,Gabriela,21796492,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2455,Macias,Manuel,40454428,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"5,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2458,Nielsen,Erik Thomas,41693153,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2485,Nuñez,Daniela Gisele,32294332,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2490,Roldan,Alfredo,24976898,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"8,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+2498,chancalay,mateo tomás,42819051,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2500,D Estepa,Carolina,29695793,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2502,Del Pino,Maria Jose,30409841,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2513,MONACO DEL DUCA,MAXIMILIANO SEBASTIAN,42226274,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2514,Oillataguerre,Ezequiel Adrian,27767523,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"6,00","4,00",-,"2,00",-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2523,Valino Silva,Santiago,39064563,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2530,Carreño,Jhon,95831198,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,"2,00",-,"2,00",-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+2533,DELLA VALLE,IVAN EDUARDO,32990377,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"5,56",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2540,Levy,Lucas Demian,43172236,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,"8,00",-,"2,00",-,-,-,-,"1,25",-,-,"9,00",-,-,-,9 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2541,Machalani,Agustina,39657143,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2550,Santagiuliana,Pablo Alejandro,36501064,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2562,De Bonis,Tomas,38890396,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2563,Delponte,Guido Nicolas,40125538,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2565,Franceschini,Gaston Ezequiel,42149910,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,-,6 - Aprobado,-,-,-,-,-,-,-
+2566,Gentile,Augusto,40134384,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2567,Gomez,Lucas Santiago,40572392,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,"2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2575,Olivera,Alvaro Martin,35985799,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2578,Rasmussen,Patrick,42647357,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2594,Soto,Emiliano,30780557,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2596,Castaño,Emiliano,41194293,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"8,00",-,-,"0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2597,Bongianino,Pablo,31322243,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2610,Maresca,Fabricio,32402062,Almagro,ASC,Almagro,ASC,,YA-FPRA,"8,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+2621,Alcoleas,Gianni,38310723,-,,-,,,YA-FPRG,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2629,de la Fuente,Javier,16599452,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,5 - Aprobado,-,-,-,-,-,-,-
+2631,Lima,Johanna,38891909,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"6,00","2,00",-,"2,00","2,00",-,-,-,"5,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2633,Zalcman,Nicolas Uriel,42013505,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2655,Albornoz Montero,Marcelo,94444804,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"7,00",-,-,"6,00",-,-,-,-,"8,89",-,-,"5,00",-,"10,00",-,5 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2656,Alfaro,Marcelo Javier,22992980,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2658,Arias De Oliveira,Stephanie,40131780,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"5,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2661,Barnetche Orensanz,Iñaki Francisco,40972462,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2662,Barua,Santiago,42427107,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2668,Cabrera,Jorge Luis,24552058,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2669,Calvagna,Ignacio Ramiro,38087793,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"4,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"0,00",-,-,-,Ausente,4 - Aprobado,-,-,-,-,-,-
+2675,Cherone,Ezequiel Matias,33346114,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"5,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,5 - Aprobado,-,-,-,-,-,-
+2677,Ciz,Cristian,37015924,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2682,Diner,Franco,42494061,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"4,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2684,Escobedo,Juan Cruz,36312364,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2685,Estrada,Hugo Daniel,14619652,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2690,Figuera,Jhonny,95716324,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"10,00","2,00",-,"2,00","8,00",-,-,-,"8,89",-,-,-,-,-,-,-,8 - Aprobado,-,-,-,-,-,-
+2692,Gaillard,Ignacio,42646796,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2694,Garcia Blad,Martin,38525654,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"2,00","1,00",-,"2,00","1,00",-,-,-,"8,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2695,Garcia Martinez,Frank,43323386,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"5,00","9,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+2696,Gervasoni,Federico Martin,35026698,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"4,00","6,00",-,"2,00",-,-,-,-,"5,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+2700,Gonzalez Muchen,Christian,41063363,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2701,Graziani,Bruno Augusto,38784215,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,"2,00",-,-,-,-,-,-,"6,67",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2702,Guevara,Noelia,28243440,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2704,Helu,Dardo,36716081,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"7,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+2706,Hidalgo,Pedro,42224774,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"6,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2713,Legal,Maximiliano Gabriel,38511633,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,"2,00",-,"2,00",-,-,-,-,"7,78",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2716,Loterstein,Federico Valentin,39385642,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2717,Maitini,Sebastian,25250760,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"5,00","2,00",-,"2,00","4,00",-,-,-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+2720,Maron,Manuel,40746840,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2721,Martinez,Lucia,36275238,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-
+2722,Martinez Herrera,Joaquin,42193673,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2723,Meijomil,Matias Hernan,40305302,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2724,Mendivil,Jeronimo Juan,32996179,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,-,-,-,-,-,-,-
+2738,Pinto,Pablo,33457579,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"6,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,"0,00",-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+2739,Principe,Alejandro Ariel,36156242,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,-,6 - Aprobado,-,-,-,-,-,-,-
+2743,RIVAS,VICTORIA,36526502,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"3,33",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2749,Sanchez,Ramiro Nicolas,38996349,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"2,00",-,-,-,-,-,-,-,"8,89",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2753,Sleiman,Mariam Nur,38307638,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2754,SOSA,BETIANA BEATRIZ,33936789,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2756,Souza Di Paula,Fabian,93770425,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,5 - Aprobado,-,-,-,-,-,-,-
+2758,Szereszewski,Mariano,40890624,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"7,50",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2759,Tamanini,Lucas,35143339,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00",-,-,"0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2761,Tokuda Tamashiro,Adrian Leandro,93688330,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2768,Velasquez Bello,Mariam Zayet,95809536,Belgrano,DD,Belgrano,DD,,BE-FPRB,"2,00",-,-,"1,00",-,-,-,-,"7,50",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2769,Vongrey,Lucas Matias,36644288,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"8,00","2,00",-,"2,00","0,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2771,Zubeldia,Gonzalo Javier,38675500,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"6,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+2775,Aguirre,Edgardo Gabriel,31602634,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,Ausente,-,-,-,-,-,-,-
+2777,Alvarez,Silvina Paola,27848521,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2780,Ayala,Dario,41703463,Almagro,ASC,Almagro,ASC,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2782,Baena,Mariana,35199901,Almagro,ASC,Almagro,ASC,A,YA-FPRH,"10,00",-,-,"6,00",-,-,-,-,"2,50",-,-,"7,00",-,-,-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2783,Banti,Ricardo Oscar,17540831,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2786,Bercovsky,Jessica Andrea,42302345,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2788,Blanco,Lucas German,35233965,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2789,Bruno,Karen Cecilia,33857895,Almagro,ASC,Almagro,ASC,A,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2791,Buengueroff,Alan,42877999,almagro,ASC,almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2793,Cabo,Julio Cesar,38458779,Almagro,ASC,Almagro,ASC,,YA-FPRI,"2,00",-,-,-,-,-,-,-,"2,50",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2796,Callegari,Tomas Agustin,42564161,Almagro,ASC,Almagro,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2798,Camen,Lucas Lionel,41559780,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-,4 - Aprobado,-,-,-,-,-,-,-
+2805,Cattivello,Ignacio Rafael,35275341,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2806,Cesca,Valentin,41705625,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2812,Czernuszka Schirmer,Luca,42723056,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2816,De Lima Carvalho,Joao Luis,95964239,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"6,00",-,-,-,-,-,-,-,"7,50",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2818,De Nicola,Lucas Nazareno Oscar,40008509,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,5 - Aprobado,-,-,-,-,-,-,-
+2821,Duran,Leandro Ariel,31727699,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2822,Encina Garcia,Ignacio,40674086,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-,4 - Aprobado,-,-,-,-,-,-,-
+2827,Fidalgo,Mariano Roberto,36153569,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2829,Fleire,Ezequiel,40011100,Almagro,ASC,Almagro,ASC,,YA-FPRB,"2,00",-,-,"5,00",-,-,-,-,-,-,-,"4,00",-,-,-,4 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+2841,Gonzalez,Carlos Adrian,34558846,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00",-,-,-,-,-,-,-,"5,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2845,Horestein,Lucas Ariel,39911914,Almagro,ASC,Almagro,ASC,,YA-FPRB,"8,00","2,00",-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+2846,Hurtado,Ariel,33716311,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,"2,00",-,-,-,2 - Reprobado,Ausente - Nunca Cursó,-,-,-,-,-,-
+2847,Ianni,Luciano Nicolas Roque,35118596,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2850,Ignacio Nuñez,Alex Fernando,93967971,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,"2,00",-,"0,00","7,00",-,-,-,"10,00",-,-,-,-,-,-,Ausente,7 - Aprobado,-,-,-,-,-,-
+2855,Kim,Nicolas Alejandro,42660203,Almagro,ASC,Almagro,ASC,,YA-FPRH,"1,00",-,-,"2,00",-,-,-,-,"6,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2858,Leale,Nicolas Jose,38612256,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,"2,00",-,"2,00","2,00",-,-,-,"7,50",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2859,Lenzo,Franco,40187107,Almagro,ASC,Almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2860,Lezcano,Daniel Victor,35911920,Almagro,ASC,Almagro,ASC,,YA-FPRC,"2,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2861,Librera Alvarez,Lucio Agustin,39760121,Almagro,ASC,Almagro,ASC,,YA-FPRF,"4,00","5,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,5 - Aprobado,-,-,-,-,-,-
+2862,Linares,Juan Pablo,40866630,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+2864,Lovos Proto,Martin Andres,31985032,Almagro,ASC,Almagro,ASC,,YA-FPRI,"10,00",-,-,"4,00",-,-,-,-,"7,50",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2869,Maler,Agustin,39760167,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2879,MELLER,NICOLAS ANDRES,36873159,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2880,Mereles,Andres Gabriel,35087641,Almagro,ASC,Almagro,ASC,,YA-FPRA,"8,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"4,00",-,-,-,4 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+2881,Modugno,Julian Franco,42629750,Almagro,ASC,Almagro,ASC,,YA-FPRH,"6,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,Ausente,4 - Aprobado,-,-,-,-,-,-
+2882,Muñiz,Julián Dario,40954781,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2890,Pacheco,Nicolas Emanuel,36088803,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2891,Palomo Gomez,Gonzalo Matias,39899046,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2902,Ramirez Angarita,Luis Alejandro,95965787,Almagro,ASC,Almagro,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2904,Ramos Andres,Moises Mao,94171049,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,"4,00",-,"0,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2907,Rodriguez,Sebastian,28864200,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2909,Romero,Luciano Nicolas,43170265,Almagro,ASC,Almagro,ASC,,YA-FPRH,"1,00",-,-,-,-,-,-,-,"2,50",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2910,Romero,Tomas Gonzalo,42409906,Almagro,ASC,Almagro,ASC,,YA-FPRC,"2,00","4,00",-,"0,00",-,-,-,-,-,-,-,-,-,-,-,Ausente,4 - Aprobado,-,-,-,-,-,-
+2911,Ruiz,Daniel Alberto,33172787,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,-,6 - Aprobado,-,-,-,-,-,-,-
+2913,Saeg Danieluk,Agustin Ivan,42341615,Almagro,ASC,Almagro,ASC,,YA-FPRG,"1,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2917,Santillana,Pablo Javier,26353472,Almagro,ASC,Almagro,ASC,,YA-FPRA,"6,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+2921,Sigal,Paulina Sofia,42657943,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+2922,Siminelakis,Matias Gabriel,43101669,Almagro,ASC,Almagro,ASC,,YA-FPRI,"2,00","4,00",-,"2,00",-,-,-,-,"7,50",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2923,Solares,Cristian Jeremias,40393280,Almagro,ASC,Almagro,ASC,,YA-FPRJ,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2925,Swanston,Marcos Matias,32637476,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2933,VERLY,TOMAS,42659147,Almagro,ASC,Almagro,ASC,,YA-FPRH,"1,00",-,-,"2,00",-,-,-,-,"6,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2936,Villarroel,Walter Matias,36597600,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+2941,Garramuo,Nicolas,41668419,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2942,Porcelli,Luciano,42645500,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"6,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+2943,Sanchez,Ignacio,cruiz_yahoo,-,,-,,A,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2946,Alumno,SEB,alumno_seb,-,,-,,A,no hay datos,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2947,Alumno,SEB 2,cruiz_prosegur,-,,-,,A,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2951,Abu Hayatian,Leandro,34493408,Belgrano,DGRA,Belgrano,DGRA,,YA-FPRC,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+2952,Acin,Federico,39305044,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"10,00",-,-,"8,00",-,-,-,-,"8,75",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+2953,Adamini,Leonardo Matias,35989461,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"7,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+2954,Aguirre,Agustin,41639877,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"4,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2955,Akerfeld,Alejo Gabriel,37988870,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"8,00","4,00",-,-,-,-,-,-,"10,00",-,-,"4,00",-,"10,00",-,4 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+2956,Almada,Federico Gabriel,39529588,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"1,00",-,-,-,-,-,-,-,"3,33",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2957,Alonso,Nicolas,39957997,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2958,Altamura,Marcelo,40972427,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"9,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+2959,Amarillo,Mateo German,41779897,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"6,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+2960,Amen,Lourdes Ayelen,41051807,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2961,Amen,Lujan Antonella,43686633,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2963,Arevalo Moya,José,95589540,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2964,Arrigone,Federico,39347215,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"1,00",-,-,-,-,-,-,-,"8,89",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2967,Barone,Mariano Martin,37035912,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"9,00","7,00",-,"2,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2968,Bartoletti,Alesis Ezequiel,34713428,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+2969,Becker,Federico,40136504,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+2970,Bellucci,Agustin,39065664,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"1,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2971,Benitez,Gerardo Sebastian,38311213,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2972,Benvenuto,Vanina Natalia,32951937,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"8,00",-,-,-,-,-,-,-,"3,33",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2973,Berardi,Nadia Karina,38066737,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"7,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+2974,Bevilacqua,Agustin,43158261,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"2,00",-,-,-,-,-,-,-,"6,67",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2975,Bezdolya,Nicolas,19017845,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"10,00",-,-,"4,00",-,-,-,-,-,-,-,"7,00",-,"10,00",-,7 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+2976,Bianco,Sebastian,37541741,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"9,00",-,-,"6,00",-,-,-,-,"8,75",-,-,"4,00",-,"10,00",-,4 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2977,Blaiotta,Noelia Melina,30557369,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2978,Bogado,Mateo Tomas,43158015,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,-,-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+2979,Borro Spinelli,Tomas Eugenio,40125103,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2980,Bosich,Nicolas,34843790,Belgrano,ASC,Belgrano,ASC,,no hay datos,"4,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2981,BOUHIER,MARTIN,38749225,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2982,Boyatjian,Diego Antranig,36806732,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"8,00","9,00",-,"2,00",-,-,-,-,"9,00",-,-,"8,00",-,-,-,8 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2983,Briggiler,Indira,34650696,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00",-,-,"4,00",-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2984,Brito Pustelnik,Nicolaiev,95873896,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"7,00","2,00",-,"2,00","4,00",-,-,-,"6,67",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+2986,Brusca,Mariano Antonio,41614887,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"6,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+2987,Bulian,Ignacio Leon,43737055,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"6,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"5,00",-,"10,00",-,5 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+2989,Capozzolo,Francisco Domingo,42567320,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+2990,Capurro,Franco Agustin,42469907,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"2,22",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2991,Carlvert De Bohun,Matias Ian,42660373,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"1,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+2992,Carrau Krizaj,Franco,35275323,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"8,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+2993,Cartolano,Facundo,40673280,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"10,00",-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+2994,Casares,Fermin,29480446,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2995,Castelblanco Illo,Nicolas,95517993,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2996,Cea,Sebastian Alejandro,38069158,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"9,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+2997,Ceballos Cevallos,Jeniffer Cristina,93401411,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"9,00","4,00",-,"2,00",-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+2998,Cebreiro,Mikel,40933485,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+2999,Cersosimo,Santiago,40954892,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"6,00",-,-,"6,00",-,-,-,-,"8,89",-,-,"4,00",-,-,-,4 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3000,CICINELLI,MARTIN,28285170,Belgrano,ASC,Belgrano,ASC,A,BE-FPRG,"7,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3001,Cilveti,Diego Maximiliano,23586745,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"9,00","6,00",-,"2,00",-,-,-,-,-,-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3003,Clark,Brian,36086112,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3005,Coniglio,Leonel,30994814,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3006,Cordoba Areder,Lucas,35548497,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"2,00",-,-,-,-,-,-,-,"3,33",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3007,Correa,Gonzalo,43599255,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3009,Cuchmeruk,Nicolas Joel,38708033,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00",-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3010,DA SILVA,JACQUELINE BELEN,37587151,Belgrano,DDIG,Belgrano,DDIG,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3011,Daricz,Walter Alejandro,22004058,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3013,Delaney,Kevin,33664941,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3014,Delgado,Leonardo Ezequiel,33033168,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"6,00",-,-,"8,00",-,-,-,-,"7,78",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3015,Delle Chiaie,Giuliano,36529568,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"10,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3016,Di Bello,Agostina,40904082,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3017,Di Biase,Lucas,36091346,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"10,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3018,Di Dionisio,Matias,42147559,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3019,Directer,Walter Manuel,31179234,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3020,Dolinski,Ezequiel,39915669,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3021,Donato Brun,Bruno Ignacio,42722378,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"1,00",-,-,-,-,-,-,-,"5,56",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3022,Duarte,Samuel,42426146,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"1,00","1,00",-,-,-,-,-,-,"6,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3023,Elefoso,Ignacio Gabriel,31662906,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3024,ELENA,FEDERICO MATIAS,37772110,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3025,EMANUELE DE STEFANO,MATIAS GUSTAVO,41894689,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"7,00","2,00",-,"2,00","2,00",-,-,-,"8,75",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3026,Erario,Tobias Lautaro,40732088,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3027,Eroles,Laura,32202644,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"7,00","8,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3028,Espeleta,Facundo,34125215,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3029,Espinoza,Jorge Emmanuel,34773323,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,-,-,-,-,-,-,-,-,"3,33",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3030,Espinoza Saavedra,Edison Aldair,94400200,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3031,FARIAS,MATIAS ALEJANDRO,35728926,almagro,ASC,almagro,ASC,,BE-FPRA,"10,00","8,00",-,"2,00",-,-,-,-,"9,00",-,-,"4,00",-,"10,00",-,4 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3032,Favero,Jeronimo,37345708,Belgrano,ASC,Belgrano,ASC,ABC,BE-FPRB,"10,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3033,Felizzola,Andrea Soledad,34963098,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"8,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3034,Fernandez Bina,Santiago,34123759,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"8,00","7,00",-,"2,00",-,-,-,-,"10,00",-,-,"4,00",-,"10,00",-,4 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3035,Fernandez Eduardo,Lucas Daniel,40569907,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3036,Flamenco,Emilio Raul,35375492,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00","2,00",-,"2,00","1,00",-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3037,Font,Sonia,36359637,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"9,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3038,Formiconi,Macarena,38089075,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"5,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3039,Fowler,Andres,43285755,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"5,00","2,00",-,-,"4,00",-,-,-,"5,56",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3041,Freire,Carlos Agustin,31772752,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"9,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3042,Fuentes,Lucian,34586770,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3043,Galeano Coman,Santiago,42648363,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"2,00",-,-,-,-,-,-,-,"5,56",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3044,Garcia,Alejandro Ezequiel,27336422,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"2,00","1,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3045,Garcia,Cesar Oscar,27946291,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"8,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3046,Garcia,Facundo Ariel Jesus,36440334,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"7,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3047,Garcia Perez,Hector Maximiliano,30011493,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"2,00",-,-,"2,00",-,-,-,-,"6,25",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3048,Garzón,Bruno,39062482,Belgrano,ASC,Belgrano,ASC,A,BE-FPRC,"0,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3049,Gatti,Olinda Margarita,95464230,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3050,Getti,Daniel David,38997693,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"9,00","9,00",-,"2,00",-,-,-,-,-,-,-,-,-,"10,00",-,Ausente,6 - Aprobado,-,-,-,-,-,-
+3051,Gomez,Matias,33409210,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3053,Gonzalez Perna,Gaston,37823795,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"9,00",-,-,"6,00",-,-,-,-,"6,67",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3054,Grisoski,Ezequiel,38996574,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3055,Gualtieri,Mariano Andres,30994677,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"6,00","2,00",-,"2,00","9,00",-,-,-,"10,00",-,-,-,-,-,-,-,9 - Aprobado,-,-,-,-,-,-
+3056,Guevara,Agustin Thomas,40395227,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"2,50",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3057,Guevara,Luzia Belen,52096836,Almagro,ASC,Almagro,ASC,,BE-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3058,Heffes,Mariano Martin,30409608,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"4,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"6,00",-,"10,00",-,6 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3059,Ibarra,Carolina,42373619,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3060,Imoff,Matias Christian,34755063,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"7,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3061,Iudica,Joaquin,41723338,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"9,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3062,Kapustiansky,Javier Ignacio,33897592,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3063,Kigelman,Debora,27203567,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3064,Kolinski,Jonatan Emanuel,37035818,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,"2,00",-,"2,00","2,00",-,-,-,"8,75",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3065,Krause Miranda,Nicolas Eduardo,32553728,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"2,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3066,Kraves,Javier Joaquin,40164254,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"1,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3068,Lafuente,Facundo Manuel,38787388,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"6,00","7,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3069,Laino,Lucas Abel,35607679,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"10,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3070,Lalanne Chichoni,Tomas Eduardo,40092285,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"7,00",-,-,"6,00",-,-,-,-,"6,67",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3071,Lariño,Pablo,35640332,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3072,Lee,Wei Chun,18900292,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"8,00",-,-,"8,00",-,-,-,-,"8,75",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3073,Leynaud,Ignacio,35360880,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,-,"0,00",-,"1,00","0,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3074,Liendro,Cesar David,38518809,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3075,Llanes,Ariel Enrique,37277682,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3076,Loughry,Tomas,36702458,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"2,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3077,Lucente,Franco Daniel,38424382,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3080,Maenhout,Tom,96023764,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"10,00","2,00",-,"2,00","7,00",-,-,-,"9,00",-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-
+3081,Maldonado,Christian Braian,38199486,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,"2,00",-,"2,00",-,-,-,-,"8,75",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3083,Martinez,Yesica Soledad,34375663,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"2,22",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3084,Martinez Gross,German Ariel,40541810,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"10,00","8,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3085,Materano Pichardo,Gilberto Jose,95842903,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"9,00",-,-,"7,00",-,-,-,-,"6,67",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3086,Matles,Jennifer Samantha,37417400,Almagro,ASC,Almagro,ASC,,BE-FPRA,"1,00",-,-,-,-,-,-,-,"7,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3087,Melnik,Nicolas,38614528,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"10,00","2,00",-,"2,00","4,00",-,-,-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3088,Merlino,Maria Felicitas,32173804,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"7,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3089,Meza,Juan Pablo,35025299,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"2,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3090,Mingrino Isern,Gonzalo Enrique,32318629,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"9,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3092,Miyashiro,Daisuke,93724578,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"4,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3093,Montuori,Renzo Andrea,24923399,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3094,Morales,Maria Vanesa,26133182,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"1,00",-,-,-,-,-,-,-,"6,67",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3095,Moran,Hernan Alejandro,32036885,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3096,Muchaypia Zamudio,Maria Fernanda,95687023,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3097,Murua,Cristian Mario,40700001,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3098,Natoli,Nicolas,33537565,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"10,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3099,Neto,Simon,41614991,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3100,Nistor,Florencia Carolina,34534301,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3101,Nuez Natera,Alberto Enrique,95689414,Belgrano,ASC,Belgrano,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3104,Oliverio,Leonardo,38951111,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3106,Orosco,Kevin Omar,35621205,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"10,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3107,Paez,Facundo,41223086,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"8,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3108,Pagani Palmbaum,Mariano,34666916,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"10,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3109,PAILOS,JUAN MANUEL,38151554,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3110,Pandiani,Franco Daniel,36721045,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"7,00","0,00",-,"2,00","2,00",-,-,-,"6,67",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3111,Parola,Ivan Leandro,40631714,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"10,00","4,00",-,"2,00",-,-,-,-,-,-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3112,Pavesi,Mauro Francisco,42102694,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"2,00","6,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3114,Peldslatier,Tomas,34705444,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00",-,-,"0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3115,Pellegrini,Juan Segundo,43570065,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"1,00",-,-,-,-,-,-,-,"3,33",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3116,Perez,Nicolas Gaston,33017403,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"2,00","6,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,Ausente,6 - Aprobado,-,-,-,-,-,-
+3117,Perez Caizalez,Gustavo Enrique,95563403,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3118,Picon,Matias Gabriel,44055835,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"8,00",-,-,"9,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3119,Pupkiewicz,Federico Ezeqiel,38788968,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"9,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3120,Reynaldo Dou,Nicolas Ezequiel,41645952,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,-,-,-,-,-,-,-,-,"1,11",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3121,Ricomagno Prado,Julian Maria,37687179,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"10,00","8,00",-,"2,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3122,Rios,Rodrigo Manuel,32944677,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3123,Roca,Ignacio Tomas,39654370,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"6,00","2,00",-,"2,00","2,00",-,-,-,"8,75",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3125,Rodriguez,Ignacio Nicolas,40540283,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"10,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3126,Rodriguez,Jorge Omar,21982899,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3127,Rodriguez,Lucas Fernando,31314572,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"9,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3128,Rodriguez,Ramiro Exequiel,31695389,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3129,Rodriguez Ortega,Agustin Manuel Eduardo,41972576,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"1,00",-,-,"0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3130,Rodriguez Ortega,Aquiles Sebastian Eduardo,34401253,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"2,00",-,-,"1,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3131,Rojas,Angel Ricardo,41398627,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3132,Ruiz,Diego Alberto,28994957,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3133,Salice,Luciana,31438969,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"5,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3134,Salomon,Ezequiel Hernan,37805647,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3135,Samora,Shanon Demian,43254160,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"2,00",-,-,"2,00",-,-,-,-,"8,89",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3136,Sanchez Peruga,Jeronimo Luis,27553106,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"10,00",-,-,"8,00",-,-,-,-,"7,78",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3137,Sayago Bustamante,Isabel Fernanda,95812846,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3138,Sequeira,Cristian Gustavo,34482211,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"7,50",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3140,SHIROMA,AGUSTIN IGNACIO,39915280,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"10,00",-,-,"4,00",-,-,-,-,"7,78",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3141,SORRENTINO,AGUSTIN ALEJANDRO,38522236,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"8,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,5 - Aprobado,-,-,-,-,-,-
+3142,Soules,Didier German,38793997,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"9,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3143,Stellato,Nahuel Hernan,43874764,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00","6,00",-,"2,00",-,-,-,-,-,-,-,-,-,-,-,Ausente,6 - Aprobado,-,-,-,-,-,-
+3144,Stirparo,Ornella Luz,43630767,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"8,00","2,00",-,"2,00","7,00",-,-,-,"8,00",-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-
+3145,Suarez,Carlos,95671918,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"9,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3146,Svampa,Fabian,37482955,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3147,Tarsia,Gabriel,30947234,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3148,Ugarte,Nicolas Sebastian,38618416,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"8,00",-,-,"6,00",-,-,-,-,"8,00",-,-,"2,00",-,-,-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3149,Vallarino Garimaldi,Juan Manuel,38893385,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3150,Valverde,Roman,40004374,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"8,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3151,Velardez,Juan Cruz,38256673,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"6,00",-,-,-,-,-,-,-,"6,67",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3152,Velazquez,Sebastian Matias,30204835,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"8,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3153,Vidal,Juan Ignacio,37608275,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3154,Vilchez Coll,Lucas,39393092,Belgrano,ASC,Belgrano,ASC,,BE-FPRC,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3155,Villarroel Davila,Mauricio Ivan,93887490,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,"8,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3157,Vorona,Daniel,43192625,Belgrano,ASC,Belgrano,ASC,,BE-FPRF,"2,00",-,-,"1,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3158,Vottchevitch,Lucas Leonel,41586453,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3159,Wade,Johanna Barbara,34713809,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3160,Zannini,Gianfranco,39466728,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3161,Zapata,Nicolas Hernan,41578265,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"8,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3162,ZUBCO KWAZUK,BRIAN,39557341,Belgrano,ASC,Belgrano,ASC,,BE-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3163,Zupan,Federico Santiago,31315363,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"10,00","8,00",-,"2,00",-,-,-,-,"10,00",-,-,"5,00",-,"10,00",-,5 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3191,ORDOÑEZ AGUILAR,JOSE FERNANDO,95758084,Belgrano,DDIG,Belgrano,DDIG,,BE-FPRB,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3215,Abitante,Emanuel Francisco,42883853,Almagro,ASC,Almagro,ASC,,YA-FPRA,"9,00",-,-,"9,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3216,Acosta,Lautaro Gabriel,38358641,Almagro,ASC,Almagro,ASC,,YA-FPRD,"4,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3217,Acosta Ciancio,Luciana Serena,40391132,Almagro,ASC,Almagro,ASC,,YA-FPRC,"5,00",-,-,"4,00",-,-,-,-,-,-,-,"4,00",-,"10,00",-,4 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3218,Agosto,Fidel,43873183,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,"6,00",-,"3,00",-,-,-,-,-,-,-,"8,00",-,"10,00",-,8 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3219,AGUNIN,ERNESTO PABLO JAVIER,24689234,almagro,ASC,almagro,ASC,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3221,Aimene,Martin Miguel,33157342,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3222,Albertone,Maximiliano Nicolas,42375288,Almagro,ASC,Almagro,ASC,,YA-FPRC,"6,00",-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3223,Albornoz Ibañez,Stefania,39267767,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"5,00","5,00",-,"2,00",-,-,-,-,"7,50",-,-,"8,00",-,"10,00",-,8 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3225,Aloisio,Natalia Jacqueline,31089155,Almagro,ASC,Almagro,ASC,,YA-FPRA,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,Ausente,-,-,-,-,-,-,-
+3226,Aloisio Quibus,Alejandro Damian,32593930,Almagro,ASC,Almagro,ASC,,YA-FPRB,"2,00",-,-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,Ausente,2 - Reprobado,-,-,-,-,-,-
+3227,Alonso,Manuel Francisco,34577276,Almagro,ASC,Almagro,ASC,,YA-FPRD,"10,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3228,Alonso Furio,Maximiliano,39457971,Almagro,ASC,Almagro,ASC,,YA-FPRC,"6,00","2,00",-,"2,00","6,00",-,-,-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3229,ALSINA,EMILIANO MARTIN,38255293,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,"4,00",-,"2,00",-,-,-,-,-,-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3230,Altman,Nicolas Matias,43917983,Almagro,ASC,Almagro,ASC,,YA-FPRF,"8,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3233,Alvarez,Lucas Sebastian,31675077,Almagro,ASC,Almagro,ASC,,YA-FPRF,"6,00",-,-,"10,00",-,-,-,-,"7,50",-,-,"10,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3234,Alvarez Naño,Francisco,43820572,Almagro,ASC,Almagro,ASC,A,YA-FPRJ,"2,00",-,-,-,-,-,-,-,"2,50",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3235,AMBADJIAN,ALAN ESTEBAN,33786756,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3236,Andres,Luciano,30491996,Almagro,ASC,Almagro,ASC,,YA-FPRA,"8,00","2,00",-,"2,00","5,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,5 - Aprobado,-,-,-,-,-,-
+3237,Apaza Villalba,Veronica,94246773,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3238,Aquino,Gonzalo Gabriel,41970515,Almagro,ASC,Almagro,ASC,,YA-FPRC,"5,00",-,-,"6,00",-,-,-,-,-,-,-,"6,00",-,-,-,6 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3239,Arancibia,Evelin,93937271,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","0,00",-,"0,00","0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3240,Arbio,Nicolas Gabriel,42145987,Almagro,Analista de Sistemas,Almagro,Analista de Sistemas,,YA-FPRE,"9,00",-,-,"6,00",-,-,-,-,-,-,-,"6,00",-,"10,00",-,6 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3241,Aristegui,Liz Pamela,43987806,Almagro,ASC,Almagro,ASC,,YA-FPRF,"2,00",-,-,-,-,-,-,-,"7,50",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3242,Arratta,Lucas Damian,42373440,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00","2,00",-,"2,00",-,-,-,-,"0,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3244,Auras,Gabriela,26339183,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3247,Baez,Nicolas Alberto,42595199,Almagro,ASC,Almagro,ASC,,YA-FPRB,"9,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3248,Balbuena Velazquez,Lilio Gustavo,95562572,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3249,Baril,Tomas Adolfo,42252152,Almagro,ASC,Almagro,ASC,,YA-FPRD,"9,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"6,00",-,-,-,6 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3250,BARRIOS,URIEL IVAN,40011019,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3251,Bartamian,Juan Ignacio,37124248,Almagro,ASC,Almagro,ASC,,YA-FPRF,"8,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3253,Baumgertner,Victoria,37332039,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,"2,00",-,"2,00","8,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,8 - Aprobado,-,-,-,-,-,-
+3254,BECK BENTIVOGLIO,SERGIO MAURICIO,42468868,Almagro,ASC,Almagro,ASC,A,YA-FPRI,"2,00",-,-,-,-,-,-,-,"5,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3255,Belascuain,Emmanuel Pablo,34505219,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"6,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3257,Benitez,Hernán Emmanuel,38359369,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3258,BENITEZ COLMAN,HERNAN DAVID,95110035,almagro,ASC,almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3259,Berkowsky,Sasha Nicolas,42816270,Almagro,ASC,Almagro,ASC,,YA-FPRC,"8,00",-,-,"8,00",-,-,-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3260,Bernasconi,Fernando,36191270,Almagro,ASC,Almagro,ASC,,YA-FPRD,"10,00","7,00",-,"2,00",-,-,-,-,"10,00",-,-,"5,00",-,-,-,5 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3261,Bey,Priscila Elena,36785043,Almagro,ASC,Almagro,ASC,,YA-FPRC,"9,00",-,-,"9,00",-,-,-,-,-,-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3262,BIANCHI,MURIEL SOL,40135420,almagro,ASC,almagro,ASC,,YA-FPRF,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3263,Blaschi,Diego Gabriel,38069310,Almagro,ASC,Almagro,ASC,,YA-FPRG,"9,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3264,Boattini,Fiorella Romina,35010080,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3265,Bonfil,Ariel,42933057,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"4,00","6,00",-,"2,00",-,-,-,-,"10,00",-,-,"6,00",-,"10,00",-,6 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3266,Bou,Tomas Ezequiel,41127977,Almagro,ASC,Almagro,ASC,,YA-FPRK,"8,00","2,00",-,"2,00","4,00",-,-,-,"6,67",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3268,Brunetto,Cecilia,39243718,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,"2,00",-,"2,00","8,00",-,-,-,"3,33",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3269,Cadahia,Desiree,34000909,Almagro,ASC,Almagro,ASC,,YA-FPRC,"10,00",-,-,"9,00",-,-,-,-,-,-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3270,Calo,Juan Manuel,41661947,Almagro,ASC,Almagro,ASC,E,YA-FPRJ,"2,00",-,-,"2,00",-,-,-,-,"2,50",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3271,Cammarota,Federico,34755088,Almagro,ASC,Almagro,ASC,,YA-FPRF,"6,00","2,00",-,-,"2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3272,Campana Levy,Tomas,43030825,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3273,Canduri,Santiago Joel,43323877,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3274,Cantoni,Lucas Ariel,36529777,Almagro,ASC,Almagro,ASC,,YA-FPRI,"10,00","8,00",-,"2,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3275,Carbonelli,Francisco,41562119,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"4,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3276,Carmona,Alan,38940573,Almagro,ASC,Almagro,ASC,,YA-FPRK,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3277,Carranza,Gonzalo,31737384,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3279,CARRASCO,ALEJANDRO EXEQUIEL,42950618,Almagro,ASC,Almagro,ASC,A,YA-FPRJ,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3280,CARTAGENO,SOL CECILIA,42727209,Belgrano,DDIG,Belgrano,DDIG,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3281,Casari,Franco,34511205,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3283,Castellano,Antonella,40243698,Almagro,ASC,Almagro,ASC,,YA-FPRA,"10,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3284,Castello Luro,Nicolas Federico,35069046,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3285,Castro Olaizola,Gonzalo Julian,41920576,Almagro,ASC,Almagro,ASC,,YA-FPRI,"7,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3286,Centurion,Ayelen,35380400,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"7,00","2,00",-,"2,00","8,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+3287,Centurion,Ramon Alberto,23723368,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3289,Cesana,Bruno,41469261,Almagro,ASC,Almagro,ASC,,YA-FPRB,"10,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3290,Chahadi,Martin Ismael,32811419,Almagro,ASC,Almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3291,CHANG INSFRAN,FRANCISCO JAVIER,94488885,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3292,Chocobar,Sergio Dario,38087951,Almagro,ASC,Almagro,ASC,,YA-FPRE,"7,00","3,00",-,"3,00","2,00",-,-,-,-,-,-,-,-,-,-,-,3 - Reprobado,-,-,-,-,-,-
+3294,Coderch,Luciano Ezequiel,41836602,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00","2,00",-,"2,00",-,-,-,-,"6,67",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3295,Coitiño,Nicolas Gonzalo,38071976,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3296,Colmenares Eduardo,Oriana Anais,95553074,Almagro,ASC,Almagro,ASC,,YA-FPRI,"7,00","2,00",-,"2,00","2,00",-,-,-,"7,50",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3297,Cometti,Cristian,35716158,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"10,00",-,-,-,"4,00",-,-,-,"5,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3298,Contente,Gonzalo Alejo,42997239,Almagro,ASC,Almagro,ASC,,YA-FPRJ,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3299,Contrera,Brian Andres,38059293,Almagro,ASC,Almagro,ASC,,YA-FPRA,"6,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3300,Costa,Alex Ian,43820248,Almagro,ASC,Almagro,ASC,,YA-FPRC,"9,00","10,00",-,"2,00",-,-,-,-,-,-,-,"7,00",-,"10,00",-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3302,Cristaldo,Tamara Vanina,29124875,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00","2,00",-,"2,00","8,00",-,-,-,"6,67",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3303,da Silva Pedemonte,Nicolas Emanuel,33840919,Almagro,ASC,Almagro,ASC,,YA-FPRH,"8,00","4,00",-,"2,00",-,-,-,-,"8,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3304,Dascanio,Nicolas Gino,40538648,Almagro,ASC,Almagro,ASC,,YA-FPRB,"6,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3305,Delgadillo Laguna,Adela Patricia,41917461,Almagro,ASC,Almagro,ASC,,YA-FPRC,"8,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3306,Dellarosa,Christian Agustin,41205854,Almagro,ASC,Almagro,ASC,,YA-FPRK,"9,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3307,Di Girolamo,Franco Augusto,37432701,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,"2,00",-,"2,00","8,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,8 - Aprobado,-,-,-,-,-,-
+3308,Di Nuzzo,Giuseppe,19030515,Almagro,ASC,Almagro,ASC,,YA-FPRB,"7,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3309,Diaz,Diego Gabriel,39212304,Almagro,ASC,Almagro,ASC,E,YA-FPRC,"6,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3311,Dosztal,Esteban Federico,26073085,Almagro,ASC,Almagro,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3312,Duarte,Maria Florencia,38631491,Almagro,ASC,Almagro,ASC,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3313,Dupuy De Lome,Tomas,33085536,Almagro,ASC,Almagro,ASC,,YA-FPRG,"1,00","7,00",-,"2,00",-,-,-,-,"10,00",-,-,"6,00",-,"10,00",-,6 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3314,Eiberman,Mariano Alberto,31234652,Almagro,ASC,Almagro,ASC,,YA-FPRH,"7,00","8,00",-,"2,00",-,-,-,-,"5,00",-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+3315,Elena,Joaquin Oscar,38285624,Almagro,ASC,Almagro,ASC,,YA-FPRI,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3316,Escandarani,Nicolas,38996292,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"9,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3317,Espinoza,Florencia,41560645,Almagro,ASC,Almagro,ASC,,YA-FPRK,"4,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3318,Fernandez,Daniel Ignacio,31973969,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3319,Fernández,Nelson Javier,37170799,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3320,Fernandez Abrevaya,Tomas Alejandro,35324852,Almagro,ASC,Almagro,ASC,,YA-FPRC,"9,00",-,-,"9,00",-,-,-,-,-,-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3321,Fernandez Cuenca,Juan Jose,44252080,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3322,Ferre,Stefania,35072077,almagro,ASC,almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3323,Ferreyra,Nicolas Ariel,38990923,Almagro,ASC,Almagro,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3324,Ferreyra,Nicolas,32311379,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"2,00",-,-,"2,00",-,-,-,-,"5,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3326,Galian,Dario Ruben,32497667,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3328,Gandolfo,Augusto Jose,35360711,Almagro,ASC,Almagro,ASC,,YA-FPRG,"6,00","7,00",-,"2,00",-,-,-,-,"10,00",-,-,"4,00",-,"10,00",-,4 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3329,Gao,Alan,43238608,Almagro,ASC,Almagro,ASC,,YA-FPRE,"9,00",-,-,"7,00",-,-,-,-,-,-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3330,Giacobone,Daniel Alejandro,27535103,Almagro,ASC,Almagro,ASC,,YA-FPRF,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3331,Giercowski,Demian Uriel,42817241,Almagro,ASC,Almagro,ASC,,YA-FPRG,"6,00","2,00",-,"2,00","8,00",-,-,-,"10,00",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3332,Girola,Ezequiel Matias,40731392,Almagro,ASC,Almagro,ASC,,YA-FPRH,"10,00",-,-,"8,00",-,-,-,-,"8,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3333,Giunta,Antonio,37990066,Almagro,ASC,Almagro,ASC,,YA-FPRI,"1,00","8,00",-,"2,00",-,-,-,-,"10,00",-,-,"4,00",-,"10,00",-,4 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3334,Goldberg,Lucas,42103146,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"8,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3336,Gomez,Gabriel Oscar,42097760,Almagro,ASC,Almagro,ASC,,YA-FPRB,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3337,Gomez Arancibia,Enzo Nicolas,40128094,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3338,GOMEZ ROMERO,NELSON NICOLAS,94216599,Almagro,ASC,Almagro,ASC,E,YA-FPRC,"1,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3340,Gonzalez,Felipe,38363815,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3341,Gonzalez,Rodrigo Agustin,38613595,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3344,Gorrini,Natalia Carla,31917770,Almagro,ASC,Almagro,ASC,,YA-FPRH,"9,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3345,Graniero,Emiliano,38784289,Almagro,ASC,Almagro,ASC,,YA-FPRI,"7,00",-,-,"8,00",-,-,-,-,"7,50",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3346,Gresia,Ezequiel,33111140,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"7,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3347,Gruber,Martin,40537273,Almagro,ASC,Almagro,ASC,,YA-FPRK,"8,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3348,Guillemi,Damian Santiago,32480352,Almagro,ASC,Almagro,ASC,,YA-FPRB,"9,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3349,Guimera,Felipe Martin,42301133,Almagro,ASC,Almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3351,Heer,Fernando Martin,28029213,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3352,Hendl,Martin,35324876,Almagro,ASC,Almagro,ASC,E,YA-FPRK,"7,00",-,-,"7,00",-,-,-,-,"6,67",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3353,Herrera,Lourdes Paloma,43819072,Almagro,ASC,Almagro,ASC,,YA-FPRG,"2,00","7,00",-,"2,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3354,Hidalgo Chacon,Daniel Alejandro,95850362,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00","2,00",-,"2,00","2,00",-,-,-,"8,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3355,Hurtado,Juan Raúl,42145778,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3356,IBAÑEZ,PILAR,39917500,Almagro,ASC,Almagro,ASC,E,YA-FPRJ,"2,00",-,-,"2,00","2,00",-,-,-,"7,50",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3357,Ibarra,Ivan Nestor Leonel,34541444,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3358,Ideme,Daiana Ayelen,39531656,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3359,Iter,Carolina Alejandra,33534161,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3360,Jarenko,Elias,32213149,Almagro,ASC,Almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3361,Jusid,Jonathan,36729777,Almagro,ASC,Almagro,ASC,,YA-FPRD,"10,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3362,Kaiser,Pamela Daiana,33191025,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3363,Kaladjian,Matias Raffi,44158631,Almagro,ASC,Almagro,ASC,,YA-FPRF,"10,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3364,Kempner,Carolina,38601560,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"8,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3365,Kiryluk,Bruno,40513359,Almagro,ASC,Almagro,ASC,,YA-FPRH,"7,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3366,Kreimberg,Kevin Igal,40676252,Almagro,ASC,Almagro,ASC,,YA-FPRI,"2,00","2,00",-,"2,00","0,00",-,-,-,"7,50",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3367,Kuktosky Fernandez,Matheo Andres,51705700,Almagro,ASC,Almagro,ASC,,YA-FPRD,"4,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3368,La Rocca,Gabriela Nazarena,22628756,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3369,Laborde,Ivan Diego,42470327,Almagro,ASC,Almagro,ASC,,YA-FPRA,"4,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3370,Laino,German Jose,36720518,Almagro,ASC,Almagro,ASC,,YA-FPRB,"9,00","2,00",-,"2,00","6,00",-,-,-,"10,00",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3371,Lavergne,Cielo,36204762,Almagro,ASC,Almagro,ASC,,YA-FPRC,"2,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3373,Lerman,Alex Abel,35959774,Almagro,ASC,Almagro,ASC,,YA-FPRE,"6,00",-,-,"7,00",-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3374,Lezcano,Cristian Emanuel,42839791,Almagro,ASC,Almagro,ASC,,YA-FPRC,"2,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3375,LIMACHI,CAROLINA YANET,43176874,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3376,Lo Castro,Matias Ariel,38886461,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"10,00","2,00",-,"2,00","7,00",-,-,-,"7,50",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3377,Lobato,Santiago,36708615,Almagro,ASC,Almagro,ASC,,YA-FPRI,"7,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3378,LOBO,ELIANA MICAELA,41709756,almagro,ASC,almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3379,Lofeudo,Gian Luca,38992869,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3380,Lopardo Grana Ghitia,Fernando,42877977,Almagro,ASC,Almagro,ASC,,YA-FPRB,"7,00",-,-,"2,00","6,00",-,-,-,"10,00",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3381,LOPEZ ROCHA,EZEQUIEL SANTIAGO,40642284,almagro,ASC,almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3382,Lotito,Juan Ignacio,40971614,Almagro,ASC,Almagro,ASC,,YA-FPRK,"9,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3384,Luna,Franco Emiliano,43872240,Almagro,ASC,Almagro,ASC,,YA-FPRF,"2,00","2,00",-,"2,00",-,-,-,-,"7,50",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3385,LUTIRAL,JIMENA PATRICIA,33783113,Belgrano,ASC,Belgrano,ASC,,YA-FPRG,"6,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3388,Macias Arona,Brian Daniel,40510576,Almagro,ASC,Almagro,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3389,Maldonado,Ivan,37679067,Almagro,ASC,Almagro,ASC,,YA-FPRK,"8,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3390,Malvaso,Agustin Julian,41586726,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3391,Mango Nuez,Jose Ignacio,34998107,Almagro,ASC,Almagro,ASC,,YA-FPRB,"9,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3392,Mansilla,German Ariel,41204795,Almagro,ASC,Almagro,ASC,,YA-FPRC,"9,00","2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3393,Manus,Cristian Hernan,37432515,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3394,Martinez,Damian Alejandro,43444984,Almagro,ASC,Almagro,ASC,,YA-FPRE,"7,00",-,-,"7,00",-,-,-,-,-,-,-,"7,00",-,"10,00",-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3395,Martinez,Fernando Daniel,29846980,Almagro,ASC,Almagro,ASC,,YA-FPRF,"10,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3396,Martinez,Tomas Ezequiel,43631440,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3397,Martins,Gonzalo Andres,44141541,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3398,Mastrazzi Vukotich,Juan Ignacio,39627703,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"7,00","6,00",-,"2,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3399,Masyk Lopez,Juan Pablo,43570681,Almagro,ASC,Almagro,ASC,,YA-FPRK,"2,00","0,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3400,MAYORGA,TOMAS ARIEL,39466312,Almagro,ASC,Almagro,ASC,,YA-FPRI,"1,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3401,Medrano,Erik Armando,43624948,Almagro,ASC,Almagro,ASC,E,YA-FPRC,"2,00","2,00",-,"0,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3402,Mendez Jaimes,Maria Jose,95850387,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3403,Mereles Arriola,Nelson Agustn,94440160,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3404,Miguel,Fran,36946090,Almagro,ASC,Almagro,ASC,,YA-FPRE,"3,00","5,00",-,-,-,-,-,-,-,-,-,"6,00",-,"10,00",-,6 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3405,MIHURA ORTEGA,Iaki,40693398,Almagro,ASC,Almagro,ASC,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3406,Mingrone Maiorca,Micaela Sofia,42566360,Almagro,ASC,Almagro,ASC,,YA-FPRG,"7,00","2,00",-,"2,00","5,00",-,-,-,"10,00",-,-,-,-,-,-,-,5 - Aprobado,-,-,-,-,-,-
+3407,Miranda,Nicolas Patricio,38996677,Almagro,ASC,Almagro,ASC,,YA-FPRH,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3408,Mohamed,Dorian Alan,34817429,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3409,Molina,Josue,36064250,Almagro,ASC,Almagro,ASC,,YA-FPRK,"4,00","4,00",-,-,-,-,-,-,"6,67",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3410,Montoya,Rodrigo Maximiliano,39913805,Almagro,ASC,Almagro,ASC,,YA-FPRI,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3411,Monzon Millafil,Lucas Matias,33000376,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3412,Mora,Dacio,38637224,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3414,Morelli,Daniel Hernan,30605984,Almagro,ASC,Almagro,ASC,,YA-FPRD,"7,00","2,00",-,"2,00","7,00",-,-,-,"10,00",-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-
+3415,Morvidone,Juan Pablo,30558613,Almagro,ASC,Almagro,ASC,,YA-FPRF,"7,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3416,Mouzo,Dario Javier,34533548,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,"6,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3417,Moya,Carla Agustina,35378127,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3419,Musmanno,Federico Javier,28023098,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"10,00",-,-,"10,00",-,-,-,-,"7,50",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3420,Narambuena,Martin Damian,41703598,Almagro,ASC,Almagro,ASC,,YA-FPRK,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3421,Negreti,Jonathan Ezequiel,37246779,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3422,Novakovich,Ljubo,42200339,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","2,00",-,"2,00","7,00",-,-,-,"10,00",-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-
+3423,Nuñez,Nahuel Agustin,42199276,almagro,ASC,almagro,ASC,,YA-FPRA,-,-,-,"5,00",-,-,-,-,"10,00",-,-,"5,00",-,-,-,5 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3424,Ocampo,Juan Pablo,31974266,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","2,00",-,"2,00","7,00",-,-,-,"10,00",-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-
+3425,Oddonetto,Nahuel,37931882,Almagro,ASC,Almagro,ASC,,YA-FPRE,"9,00",-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3426,Olivera,Matias,42300564,Almagro,ASC,Almagro,ASC,,YA-FPRF,"8,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3427,Oliveros Mata,Pedro Luis Del Valle,95916596,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3428,Omodei Pellejero,Santino,43917723,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,"10,00",-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3429,Oñate,Maria Itziar,40134573,Belgrano,DGRA,Belgrano,DGRA,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3430,Otero Szapiro,David Uriel,35184792,Almagro,ASC,Almagro,ASC,,YA-FPRK,"10,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3431,Ozuna Fergonzon,Gaston,39035696,Almagro,ASC,Almagro,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3433,PAGLIOTTO,MATIAS NAHUEL,42226182,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3434,Palacio,Gonzalo Alberto,42722879,Almagro,ASC,Almagro,ASC,,YA-FPRC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3435,Palacios,Lucas Abraham,38622462,Almagro,ASC,Almagro,ASC,,YA-FPRD,"8,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3436,Panez Ramos,Mara Victoria,94626934,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3437,Panossian,Onnig Ariel,37007619,Almagro,ASC,Almagro,ASC,,YA-FPRF,"6,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3438,PARADA,SANTINO ALEJO,43626528,Almagro,ASC,Almagro,ASC,E,YA-FPRG,"2,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3439,Paz,Miguel Matias,38887185,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,"2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3440,Peralta Martinez,Walter Eduardo,38380410,Almagro,ASC,Almagro,ASC,,YA-FPRJ,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3441,Perchuk,Federico,41127835,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"9,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3442,Pereira Sanchez,Karina Beatriz,94558299,Almagro,ASC,Almagro,ASC,,YA-FPRG,"10,00",-,-,"10,00",-,-,-,-,"6,67",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3443,Perez Vitale,Tomas,42145682,Almagro,ASC,Almagro,ASC,,YA-FPRA,"7,00","2,00",-,"2,00","6,00",-,-,-,"10,00",-,-,-,-,-,-,Ausente,6 - Aprobado,-,-,-,-,-,-
+3444,Pezzutti,Federico,30978607,Almagro,ASC,Almagro,ASC,,YA-FPRB,"6,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"7,00",-,"10,00",-,7 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3445,Pietrafesa,Nicolas Nahuel,40014517,Almagro,ASC,Almagro,ASC,,YA-FPRI,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3446,PIÑEIRO CARDENAS,NAIARA YAEL,42496953,Almagro,ASC,Almagro,ASC,A,YA-FPRD,"2,00","2,00",-,-,"2,00",-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+3447,Pisterman,Ariel Eitan,41586809,Almagro,ASC,Almagro,ASC,,YA-FPRE,"10,00",-,-,"7,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3448,Podostrojec,Axel,36275191,Almagro,ASC,Almagro,ASC,,YA-FPRF,"2,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3449,Ponce,Emanuel,32345660,Almagro,ASC,Almagro,ASC,,YA-FPRG,"9,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3450,Pontorno,Damian Eduardo,40133251,Almagro,ASC,Almagro,ASC,,YA-FPRH,"6,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3451,Ponzio,Guido Nicolas,39212339,Almagro,ASC,Almagro,ASC,,YA-FPRI,"6,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"4,00",-,-,-,4 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3452,Pozzuto,Roman Fernando,42248626,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3453,PRADO ESPINOZA,MAXIMILIANO ALEXANDER,35901252,Almagro,ASC,Almagro,ASC,,YA-FPRK,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3454,PUCHEU,RODRIGO SEBASTIAN,36686023,almagro,ASC,almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3455,Pulvirenti,Antonella,40642482,Almagro,ASC,Almagro,ASC,,YA-FPRB,"8,00",-,-,"5,00",-,-,-,-,-,-,-,"8,00",-,"10,00",-,8 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3456,Puppo,Federico Eloy,37141302,Almagro,ASC,Almagro,ASC,,YA-FPRF,"10,00","2,00",-,"2,00","9,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+3457,Questa,Martin,37113978,Almagro,ASC,Almagro,ASC,,YA-FPRD,"6,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"4,00",-,-,-,4 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3458,Quevedo,Ezequiel Andres,39609396,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,"4,00",-,-,-,-,-,-,-,"5,00",-,-,-,5 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3459,Quiroz,Macarena,36527991,Almagro,ASC,Almagro,ASC,,YA-FPRF,"2,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"6,00",-,"10,00",-,6 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3460,Rapetti,Tomas Agustin,39510994,Almagro,ASC,Almagro,ASC,,YA-FPRH,"8,00","2,00",-,"2,00","2,00",-,-,-,"8,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3461,Reboredo,Sofia,35540321,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"9,00","2,00",-,"2,00","4,00",-,-,-,"7,50",-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-
+3462,Rios,Kevin German,40571319,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00","2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,Ausente,2 - Reprobado,-,-,-,-,-,-
+3463,Rios Quintana,Ulises Antonio,37992859,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3465,Rivera,Esteban Ezequiel,38454906,Almagro,ASC,Almagro,ASC,,YA-FPRA,"10,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3467,Robles,Lautaro,42727364,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"6,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"8,00",-,-,-,8 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3468,Rocha,Melina,42934064,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","2,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3469,Rodriguez,Agustin,42252874,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3470,Rodriguez,Patricia Alejandra,27592243,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3472,Rodriguez Meisel,Erik,18866485,Almagro,ASC,Almagro,ASC,,YA-FPRF,"9,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3473,Rodriguez Soria,Nicolas,95016683,Almagro,ASC,Almagro,ASC,,YA-FPRI,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3474,Roldan,Nicolas Ezequiel,35094383,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"9,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"9,00",-,"10,00",-,9 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3475,Rossaroli,Facundo,41709985,Almagro,ASC,Almagro,ASC,,YA-FPRK,"9,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3476,Rubio,Adrian Alberto,30428128,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3477,Ruiz,Hector Damian,33083832,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3478,Saccani,Ovidio,40140084,Almagro,ASC,Almagro,ASC,,YA-FPRC,"10,00","9,00",-,"2,00",-,-,-,-,-,-,-,"9,00",-,"10,00",-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3479,Sanchez Valdez,Ian Jose,42821085,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3480,Santa Cruz,Josue,42818696,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3481,Scapin,Gianfranco,39917168,Almagro,ASC,Almagro,ASC,,YA-FPRF,"5,00",-,-,"5,00",-,-,-,-,"10,00",-,-,"4,00",-,"10,00",-,4 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3482,Scarafia Gomez,Agustina,37040611,Almagro,ASC,Almagro,ASC,,YA-FPRG,"7,00",-,-,"7,00",-,-,-,-,"10,00",-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3483,Scaravina,Franco Nicolas,41460879,Almagro,ASC,Almagro,ASC,,YA-FPRH,"2,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3485,Serrano Gomez,Jorge Pablo,43243181,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"6,00",-,-,"4,00",-,-,-,-,"7,50",-,-,"8,00",-,-,-,8 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3486,Sevayos,Cesar,95805575,Almagro,ASC,Almagro,ASC,,YA-FPRK,"2,00","2,00",-,"2,00","4,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,4 - Aprobado,-,-,-,-,-,-
+3487,Sierra,Matias,38887580,Almagro,ASC,Almagro,ASC,,YA-FPRB,"8,00",-,-,"4,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,4 - Aprobado,-,-,-,-,-,-
+3488,Soldavila,Ignacio,43669341,Almagro,ASC,Almagro,ASC,,YA-FPRC,"8,00",-,-,"5,00",-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,5 - Aprobado,-,-,-,-,-,-
+3489,Steinberg,Federico Brian,41009188,Almagro,ASC,Almagro,ASC,,YA-FPRE,"9,50",-,-,"9,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3490,Stipicic,Ivo Gonzalo,36719772,Almagro,ASC,Almagro,ASC,,YA-FPRF,-,-,-,"6,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3491,Suarez Colucci,Jennifer Samanta,30595661,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3492,Tabano,Mauro Daniel,43573483,Almagro,ASC,Almagro,ASC,,YA-FPRH,"4,00","2,00",-,"2,00","6,00",-,-,-,"10,00",-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-
+3493,Tadakuma,Miguel Angel,38257033,Belgrano,ASC,Belgrano,ASC,ABC,YA-FPRG,"10,00",-,-,"8,00",-,-,-,-,"10,00",-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3494,Terrens Sartore,Javier,33257631,Almagro,ASC,Almagro,ASC,,YA-FPRJ,"2,00","2,00",-,"2,00","8,00",-,-,-,"7,50",-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+3495,Torres,Francisco,43991984,Almagro,ASC,Almagro,ASC,,YA-FPRA,"8,00","4,00",-,"2,00",-,-,-,-,"10,00",-,-,"4,00",-,-,-,4 - Aprobado,4 - Aprobado,-,-,-,-,-,-
+3496,Torres Cañete,Hernan Javier,35254930,Almagro,ASC,Almagro,ASC,A,YA-FPRK,"4,00",-,-,"2,00","2,00",-,-,-,"3,33",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3497,Tozzini,Mateo,40392529,Almagro,ASC,Almagro,ASC,,YA-FPRB,"8,00",-,-,"9,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-
+3498,Traversaro,Miguel Angel,39067992,Almagro,ASC,Almagro,ASC,,YA-FPRC,"9,00",-,-,"8,00",-,-,-,-,-,-,-,"8,00",-,"10,00",-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3499,Valenzuela,Lautaro,43815634,Almagro,ASC,Almagro,ASC,,YA-FPRD,"2,00","2,00",-,"2,00","6,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+3500,Vasconcelo,Martin,33408629,Almagro,ASC,Almagro,ASC,,YA-FPRE,"3,00","8,00",-,"3,00",-,-,-,-,-,-,-,"2,00",-,"10,00",-,2 - Reprobado,5 - Aprobado,-,-,-,-,-,-
+3501,VAZQUEZ,FEDERICO AGUSTIN,36931347,Belgrano,ASC,Belgrano,ASC,,YA-FPRF,-,"7,00",-,"2,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3502,Vila Pereira,Karen Leticia,37751440,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,"8,00",-,"2,00",-,-,-,-,"10,00",-,-,"9,00",-,-,-,9 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3503,Villafae,Florencia Ayelen,38177973,Almagro,ASC,Almagro,ASC,,YA-FPRH,"7,00","2,00",-,"2,00",-,-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3504,Villalon,Patricio Jose,33133920,Almagro,ASC,Almagro,ASC,,YA-FPRJ,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3505,Villalta,Irina Ayelen,40004791,Almagro,ASC,Almagro,ASC,,YA-FPRB,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,Ausente,-,-,-,-,-,-,-
+3508,Wrobel,Axel,44159759,Almagro,ASC,Almagro,ASC,,YA-FPRB,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3509,Zalatnik,Solana,43874583,Almagro,ASC,Almagro,ASC,,YA-FPRA,"10,00","10,00",-,"2,00",-,-,-,-,"10,00",-,-,"10,00",-,"10,00",-,10 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3511,Zanettini,Lucia Melina,40971650,Almagro,ASC,Almagro,ASC,,YA-FPRE,-,"3,00",-,-,"2,00",-,-,-,-,-,-,-,-,"10,00",-,-,3 - Reprobado,-,-,-,-,-,-
+3512,Zaselsky,Demian,43403672,Almagro,ASC,Almagro,ASC,,YA-FPRC,"9,00",-,-,"8,00",-,-,-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-
+3513,Zelener,Franco,43034178,Almagro,ASC,Almagro,ASC,,YA-FPRG,"7,00",-,-,"6,00",-,-,-,-,"10,00",-,-,"2,00",-,"10,00",-,2 - Reprobado,6 - Aprobado,-,-,-,-,-,-
+3514,Zoff Federighi,Yoel Andres,41288612,Almagro,ASC,Almagro,ASC,,YA-FPRH,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3526,Pettinato,Nicolas,35727670,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,"2,00",-,-,-,-,-,-,-,"7,78",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3528,MORINIGO,MARTIN EUSTACIO,25949843,Almagro,ASC,Almagro,ASC,,YA-FPRE,"7,00","6,00",-,"3,00",-,-,-,-,-,-,-,-,-,"10,00",-,-,6 - Aprobado,-,-,-,-,-,-
+3529,Zbinden,Maximiliano,25027564,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"7,00","8,00",-,"2,00",-,-,-,-,-,-,-,"9,00",-,"10,00",-,9 - Aprobado,6 - Aprobado,-,-,-,-,-,-
+3530,TREJO,JOSE ALEJANDRO,21762640,Belgrano,ASC,Belgrano,ASC,,BE-FPRE,"2,00","1,00",-,"1,00","1,00",-,-,-,"7,78",-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-
+3532,Espiñeira,Joaquin Felipe,43030598,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"6,00","2,00",-,"0,00",-,-,-,-,"6,67",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3533,Sanchez,Rodrigo Martin,36881244,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3534,Espósito,Jésica,36167349,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3535,Rivero,Mauro Rodrigo,35376145,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3536,Sapia,Gonzalo Nicolas,40399364,Belgrano,ASC,Belgrano,ASC,,BE-FPRH,"7,00",-,-,"7,00",-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-
+3537,Fernández,Diana Agustina,35971187,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,"5,00",-,-,"10,00",-,-,-,-,"10,00",-,-,"10,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-
+3540,Hernandez,Dalmiro,41548218,Belgrano,ASC,Belgrano,ASC,,BE-FPRG,"1,00",-,-,-,-,-,-,-,"3,33",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3541,Velasquez Castillo,Erika,93800955,Belgrano,ASC,Belgrano,ASC,,BE-FPRB,-,"2,00",-,-,"2,00",-,-,-,"6,25",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3542,Villalta,Micaela,37483209,-,,-,,,YA-FPRB,"2,00",-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3543,Peralta,Ezequiel,37097744,-,,-,,,YA-FPRF,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3545,Lara,Ezequiel,28452801,Belgrano,ASC,Belgrano,ASC,,BE-FPRA,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3566,Fajardo,Maribel,41667292,-,,-,,,YA-FPRB,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-
+3568,CORTES,FEDERICO GASTON,43775966,Belgrano,ASC,Belgrano,ASC,,YA-FPRB,"2,00",-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3569,Marquez,Alberto,35094290,-,,-,,,YA-FPRI,"2,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3570,Quiroz Vera,Juan Fernando,94198727,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,"2,00",-,"2,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3699,FUSARO,GIANFRANCO,39916905,Almagro,ASC,Almagro,ASC,,YA-FPRA,-,"0,00",-,"0,00",-,-,-,-,"10,00",-,-,"2,00",-,-,-,2 - Reprobado,-,-,-,-,-,-,-
+3700,Dolgow List,Matias Ezequiel,39639741,Almagro,ASC,Almagro,ASC,,YA-FPRD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3701,Cruz Arandia,Michel,39210347,Almagro,ASC,Almagro,ASC,,YA-FPRG,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3702,Bocian,Lorena Noemi,30815395,Almagro,ASC,Almagro,ASC,,YA-FPRK,"2,00","2,00",-,"1,00","2,00",-,-,-,"10,00",-,-,-,-,"10,00",-,-,2 - Reprobado,-,-,-,-,-,-
+3703,Villizzianto,Raul Andres,42193712,Almagro,ASC,Almagro,ASC,,YA-FPRK,"2,00",-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-
+3776,Schiro,Deborah,dschiro,-,,-,,,YA-FPRK,-,-,-,-,-,-,-,-,"3,70",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3826,Fraccaro,Mariana,mfraccaro,-,,-,,,BE-FPRH,-,-,-,-,-,-,-,-,"0,48",-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-
+3855,itesort,asc-be-11a,asc-be-11a,-,,-,,,no hay datos,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4223,Fernandez Gebauer,Julián Martín,38069135,Belgrano,ASC,Belgrano,ASC,,no hay datos,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

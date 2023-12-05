@@ -1,0 +1,26 @@
+{
+  "name": "ort-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "faker": "^5.5.3",
+    "fetch": "^1.1.0",
+    "google-spreadsheet": "^3.3.0",
+    "knex": "^2.1.0",
+    "knex-on-duplicate-update": "^2.3.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.18"
+  }
+}

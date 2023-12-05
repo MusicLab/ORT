@@ -1,0 +1,155 @@
+userid,Apellido(s),Nombre,Nombre de usuario,Institución,Departamento,1-Sede,2-Carrera,class,groupid,1er Final Julio BDD2,1°Parcial,1°Recuperatorio,2°Parcial,2°Recuperatorio,Asistencia,Contenido,Contenido U3,EXAMEN BDD2 YA21A,EXAMEN BDD2_YA21D,Entrega TP Repaso SQL,Entrega TP SQL Belgrano,Espacio para guardar los trabajos practicos de BD2,Examen 1 BD2 Bolatti 2020 01,Examen 2 BD2 Bolatti 2020 01,Examen de BDD2,Final BD2 - Julio 2020,Nota Final 1°Llamado Julio 2020,Nota Final Cursada (REQUERIDO POR LA COORDINACIÓN),Parcial BD2 - Junio 2020,RECUPERATORIO BDD2 YA21A,RECUPERATORIO BDD2_YA21D,Recuperatorio 1 BD2 Bolatti 2020 01,Recuperatorio 2 BD2 Bolatti 2020 01,Recuperatorio Junio 2020,Recuperatorio de BDD2,Recuperatorio de BDD2 2CUAT 21A,Simulacro Parcial BD2 - Junio 2020,TP FINAL BDD2 YA21A,TP FINAL BDD2 YA21D,TP FINAL SQL BD2 Bolatti,TP Normalizacion,Trabajo Practico - Practica SQL 
+28,Kaplan,Claudia,ckaplan,-,,-,,,YA-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+695,Xxx,Xxx,xxx,-,,-,,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1060,Propatto Y Cafaro,Federico,34362569,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,50",7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1122,De Filpo,Nicolas Manuel,33387057,-,,-,,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8 - Aprobado,6 - Aprobado,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,-
+1143,Garcia Tuon,Gonzalo Agustin,38708301,-,,-,,,YA-BD2D,-,-,-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1175,Marcu,Jonathan,37753809,Almagro,ASC,Almagro,ASC,,FINAL,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1212,Sargsyan,Mikael,19025117,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1291,Javier Adrian,Tonelli,37237314,ORT,,ORT,,A,YA-BD2A,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1322,Abdala,Simon,40980608,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1359,Van Thillo,Nicolás Pablo,32386411,Belgrano,ASC,Belgrano,ASC,E,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1408,Blanco Chavarria,Ivan Alexis,36297762,-,,-,,,YA-BD2A,-,-,-,-,-,-,-,-,"6,80",-,-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1426,Casullo,Matias Nahuel,41834850,-,,-,,,FINAL,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1469,Godoy Leiva,Federico,32144887,Almagro,ASC,Almagro,ASC,,FINAL,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1480,Kosacoff,Nicolas Benjamin,37754325,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"9,20",-,-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1498,Merlo,Gonzalo Martin,36949535,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1507,Palomeque,Ramiro,41915790,Almagro,ASC,Almagro,ASC,,FINAL,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1535,Shaw,Tomas Adolfo,40192634,Belgrano,ASC,Belgrano,ASC,A,YA-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1638,Caceres,Alejandro Damian,27740384,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1660,Nishida,Sergio,24872072,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1683,Matusevich,Guido,gmatusevich,-,,-,,,YA-BD2E,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1727,Martinez Eluen,Francisco,39184623,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"8,00",8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1751,Unías Caminos,Fernando Alan,42649904,Belgrano,ASC,Belgrano,ASC,A,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1818,Caffarena,Andres,29469195,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1831,Ojeda Maidana,Virginia Angelica,38049732,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1841,Taso,Andres Emanuel,33707409,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1845,Bazan,Mauro Leonardo,36401328,Almagro,ASC,Almagro,ASC,,YA-BD2C,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,"3,50",-,-,-,9 - Aprobado,5 - Aprobado,-,-,-,"4,60",-,-,-,-,-,-,-,-,-,-
+1847,Cafiero,Agustina,39644259,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1861,Nardi,Nicolas Federico,40540857,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1869,Salzman,Melanie Denise,40244709,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"7,60",-,-,-,9 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1891,Mousseigne,Nehueln,42498828,Almagro,ASC,Almagro,ASC,,YA-BD2A,"5,00",-,-,-,-,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1905,Bidart,Monica Graciela,20230457,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2055,Acuna,Juan Francisco,35357698,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2083,Haslop Miles,Eduardo Maximiliano Gabriel,30449738,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,10 - Aprobado,"9,47",-,-,-,-,-,-,-,"10,00",-,-,-,-,-
+2099,Pennacchi,Nicolas Martin,40130748,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2100,Pessino,Lucia,41672139,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,-,-,6 - Aprobado,"7,37",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2108,Serrao Gomez,Santiago Andres,35961726,Belgrano,ASC,Belgrano,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,7 - Aprobado,6 - Aprobado,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-
+2110,Tracana Amezqueta,Eleazar Javier,95784543,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"8,00",8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2112,Ventura,Luciano,39387916,Belgrano,ASC,Belgrano,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"6,40",-,-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2114,Vuylsteke,Kevin Martin,37027099,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,50",7 - Aprobado,8 - Aprobado,"7,89",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2117,Alvarez,Maria Celeste,36874250,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2164,Franzoni,Clara,36626020,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,50",-,-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2178,Jaurena,Camila,31968471,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,8 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2254,Antar Lerner,Alan Gabriel,42951410,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,9 - Aprobado,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2256,Avico,Mariano Daniel,33192155,Almagro,ASC,Almagro,ASC,A,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2258,Barreda,Rodrigo Matias,42249005,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,6 - Aprobado,5 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2260,Basualdo,Emilse Andrea,39372093,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"3,60",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2262,Bikiel,Ezequiel,42498978,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2263,Bosnjak,Facundo Nicolas,34890139,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"6,80",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2264,Bronsztein,Alan Uriel,41918430,Almagro,ASC,Almagro,ASC,,YA-BD2A,"10,00",-,-,-,-,-,-,-,"6,40",-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,-,-,"6,00",-,-,-,-
+2265,Bruzzese Alejandro,Alejandro,38444149,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2274,Carreira Sebastian Matias,Sebastian Matias,40008825,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2281,Cengarle,Maria Judith,32525970,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,50",-,-,6 - Aprobado,5 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2282,Centurion,Alejandro Martin,35992174,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"6,40",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,"6,00",-,-,-,-,-,-,-,-,-,-,-
+2285,Chejas,Ioel Itzjak,43243543,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,60",-,-,8 - Aprobado,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2286,Chiacchio,Ezequiel,42459659,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2288,Cirion,Constanza,43034733,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"8,80",-,-,-,-,-,-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2289,Cohen,Matías,34870692,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"9,20",-,-,-,-,-,-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2291,Cosso,Lautaro Agustin,40901550,Almagro,ASC,Almagro,ASC,,YA-BD2C,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,"4,50",-,-,-,7 - Aprobado,5 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2298,Debarnot,Alexis Ivan,39909013,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"7,60",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2299,Debarnot,Gonzalo Xavier,32478814,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"8,80",-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2300,Di Gulio,Dario,dgulio,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2305,Duran,Alan Gabriel,43325124,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,50",-,-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2306,Escalante Echage,Enrique Jos,30700167,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"7,20",-,-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,"6,00",-,-,-,-
+2307,Espinola,Julieta,34754853,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"8,40",-,-,-,-,-,-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2310,Felice,Sebastian Luis,40013454,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,7 - Aprobado,6 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2311,Fernandez Lucas Ivan,Lucas Ivan,39912848,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"6,40",-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,"8,80",-,-,-,-,-,-,-,-,-,-,-
+2317,Gargiulo,Tomas Sebastian,38893043,Almagro,ASC,Almagro,ASC,,BE-BD2B,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"10,00",-,-,-,-,-
+2326,Hashiba,Fernando,31407854,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2327,Humano,Nara Esther,34682207,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2329,Igarza,Tomas,41778027,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,50",-,-,8 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2330,Iglesias,Rodrigo Nicolas,29004601,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"7,20",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,-
+2336,Krigun,Lucas,34519386,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2338,Laboranti,Ezequiel Hernan,33032717,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"9,20",-,-,-,-,-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2339,Landaburu,Matias Horacio,41558077,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"6,80",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2343,Loupias Scarfone,Fabricio Facundo,38359314,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2345,Mandrille,Javier,30881705,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"8,80",-,-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2349,Maza,Gimena Melisa,37548705,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"9,00",-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2351,Melendez,Tomas,39847671,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"6,80",-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2352,Mignone,Carlos A.,34135910,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,"9,60",-,-,-,-,-,-,-,-,-,-,-,-
+2356,Muñoz,Martin,39644157,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,8 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2360,Orue,Andres Pablo,36930199,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,50","2,50",-,-,-,-,-,-,-,-,"2,10",-,-,-,-,-,-,-,-,-
+2361,Orue,Fabian Roberto,30653187,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,50",-,-,6 - Aprobado,5 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2369,Quijano,Federico,38356686,Almagro,ASC,Almagro,ASC,,YA-BD2A,-,-,-,-,-,-,-,-,"6,80",-,-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2371,Ramirez,Daniel,34343569,Almagro,ASC,Almagro,ASC,,YA-BD2A,"5,00",-,-,-,-,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2373,Reina,Hernán Gustavo,25896039,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,9 - Aprobado,8 - Aprobado,-,-,-,"7,60",-,-,-,-,-,-,-,-,-,-
+2384,Schraifer,Cristian Maximiliano,34072212,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2386,Soldavila,Juan Cruz,37033374,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"7,20",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-
+2390,Stalla Victor Hugo,Victor Hugo,28059370,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2394,Touron,Ramiro,36645538,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,50",-,-,8 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2397,Tzoymaher,Facundo,40901761,Almagro,ASC,Almagro,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"10,00",10 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,"2,86",-,-,-,-,-
+2398,Valdez,Richard Alexis,93601193,Almagro,ASC,Almagro,ASC,,YA-BD2D,-,-,-,-,-,-,-,-,-,"7,20",-,-,-,-,-,-,-,7 - Aprobado,7 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2402,Verbauwede,Juan Ignacio,37546807,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,50",-,-,-,-,5 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2439,Acquafresca,Pablo Agustin,31315249,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2440,Aragona,Leandro Javier,43258839,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,9 - Aprobado,"9,47",-,-,-,-,-,-,-,"5,71",-,-,-,-,-
+2441,Baragli,Hector Ariel,31624598,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-
+2443,Botella,Ian Leandro,41970487,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2444,Cernaz,Mateo,35355479,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2454,Liste,Gabriela,21796492,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,9 - Aprobado,"8,42",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2462,Reh,Sebastian Ricardo,35505682,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"10,00",10 - Aprobado,8 - Aprobado,-,-,-,-,-,"8,42",-,-,-,-,-,-,-,-
+2471,Cersosimo,Brian,38995396,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,"6,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,6 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2475,Do Nascimento,Maria Florencia,fdoascimento,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-
+2478,Gonzalez,Eduardo Daniel,33709519,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2481,Lopez Lacal,Tomas Manuel,38997735,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"7,50",-,-,-,-,-,-,-,-,-,-,"8,50",8 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2482,Maldonado Riquelme,Ezequiel,93920830,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"4,29",-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2483,Massacese,Ignacio,37665342,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2484,Moiron,Tomas,41614678,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,"8,50",8 - Aprobado,9 - Aprobado,"9,47",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2486,Otsubo,Sergio Gabriel,27859855,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"8,50",8 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2488,Quesada,Matias,43043147,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2492,Slullitel,Ramiro,41757822,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"7,50",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,8 - Aprobado,"7,89",-,-,-,-,-,-,-,"4,29",-,-,-,-,-
+2493,Altamirano,Lucas,39559504,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"8,00",8 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,-,-,-,-,-,-
+2496,Bincoletto,Ulises Alejandro Emanuel,38683226,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",7 - Aprobado,8 - Aprobado,"7,89",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2502,Del Pino,Maria Jose,30409841,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"6,00",6 - Aprobado,9 - Aprobado,"8,42",-,-,-,-,-,-,-,"2,86",-,-,-,-,-
+2508,Landinez Gallego,Ivan Dario,95468562,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"8,50",8 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2511,Mansour Santiago,Muhamad,95553268,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"10,00",10 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2514,Oillataguerre,Ezequiel Adrian,27767523,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"8,00",8 - Aprobado,8 - Aprobado,"8,42",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2518,Rodriguez,Jesica Belen,34691415,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"6,50",6 - Aprobado,8 - Aprobado,"7,37",-,-,-,-,-,-,-,"4,29",-,-,-,-,-
+2520,Sapia,Martin Alejandro,38254703,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"4,29",-,-,-,-,-
+2523,Valino Silva,Santiago,39064563,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,-,-,7 - Aprobado,"7,37",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2524,Wider,Timothy Brandon,42930166,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"10,00",10 - Aprobado,8 - Aprobado,"7,89",-,-,-,-,-,-,-,-,-,-,-,-,-
+2526,Alvarez,Brian Nahuel,39457921,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"8,50",8 - Aprobado,8 - Aprobado,"8,42",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2528,Battaglia,Franco,38455074,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",7 - Aprobado,8 - Aprobado,"8,95",-,-,-,-,-,-,-,"1,43",-,-,-,-,-
+2529,Block,Ezequiel Oscar,27403648,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-
+2543,MENENDEZ,MATIAS ALEJANDRO,29126301,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,10 - Aprobado,"9,47",-,-,-,-,-,-,-,"10,00",-,-,-,-,-
+2545,Paci,Maximiliano Tomas,40950183,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,8 - Aprobado,"7,89",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2549,Rosenberg,Alan Ezequiel,37247489,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,10 - Aprobado,"9,47",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2552,Tapia Castellano,Pablo Ignacio,36571633,Belgrano,ASC,Belgrano,ASC,,BE-BD2A,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,8 - Aprobado,"8,42",-,-,-,-,-,-,-,"2,86",-,-,-,-,-
+2553,Uhrich,Veronica Soledad,34836060,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"8,50",8 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2558,Bellanti,Rodrigo Tomas,38601017,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,10 - Aprobado,"9,47",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2565,Franceschini,Gaston Ezequiel,42149910,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,8 - Aprobado,"8,42",-,-,-,-,-,-,-,"7,14",-,-,-,-,-
+2568,Iglesias Garramone,Gaston Alejandro,38521528,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,10 - Aprobado,"10,00",-,-,-,-,-,-,-,"8,57",-,-,-,-,-
+2569,Lavista Segui,Federico Guillermo,30494796,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,00",9 - Aprobado,10 - Aprobado,"9,47",-,-,-,-,-,-,-,"10,00",-,-,-,-,-
+2584,Victoria,Luz Aldana,37140275,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,Ausente - Dejó la Cursada,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2586,Zayas Ancewicz,Luciano Gaston,38069602,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"10,00",10 - Aprobado,9 - Aprobado,"9,47",-,-,-,-,-,-,-,"1,43",-,-,-,-,-
+2591,Rondeau,Pablo Emmanuel,33339221,-,,-,,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,50",-,-,-,8 - Aprobado,6 - Aprobado,-,-,-,"6,10",-,-,-,-,-,-,-,-,-,-
+2594,Soto,Emiliano,30780557,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,7 - Aprobado,"7,37",-,-,-,-,-,-,-,"1,43",-,-,-,-,-
+2598,Busnelli,Dario,40642909,Almagro,ASC,Almagro,ASC,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,7 - Aprobado,5 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2599,Andrés,Pablo,29047106,Belgrano,ASC,Belgrano,ASC,,BE-BD2B,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"9,50",9 - Aprobado,9 - Aprobado,"8,95",-,-,-,-,-,-,-,"5,71",-,-,-,-,-
+2602,Gianotti,Juan Jose,27346358,-,,-,,,YA-BD2D,-,-,-,-,-,-,-,-,-,"8,80",-,-,-,-,-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-
+2604,Holodovsky,Nicolas,35323418,-,,-,,,BE-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2605,Labriola,Pablo Leonardo,33458571,-,,-,,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-
+2607,Sanchez Badenas,Gabriel Fernando,43244580,-,,-,,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,50","3,00",-,-,-,5 - Aprobado,-,-,-,-,"3,60",-,-,-,-,-,-,-,-,-
+2611,Castro,Santiago Cesar,33537569,-,,-,,,YA-BD2D,-,-,-,-,-,-,-,-,-,"9,20",-,-,-,-,-,-,-,10 - Aprobado,10 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2612,De Perosanz,German Lucas,42822816,-,,-,,,YA-BD2D,-,-,-,-,-,-,-,-,-,"7,60",-,-,-,-,-,-,-,8 - Aprobado,8 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2613,Lavalle Krizaj,Nicolas,36155711,-,,-,,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2614,Di Flumeri,Maximiliano,33689563,-,,-,,,YA-BD2D,-,-,-,-,-,-,-,-,-,"6,80",-,-,-,-,-,-,-,9 - Aprobado,9 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2615,Eljatib,Denise,27659741,-,,-,,,YA-BD2B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"3,60",-,-,8 - Aprobado,8 - Aprobado,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-
+2619,Belluomini,Hernan Agustin,35761837,-,,-,,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,30",-,-,-,-,4 - Aprobado,-,-,-,"2,50","4,10",-,-,-,-,-,-,-,-,-
+2624,Fungueiro,Tomas Santiago,42150247,-,,-,,,YA-BD2A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Ausente,Ausente - Nunca Cursó,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2627,Orellana Villarroel,Alvaro Hernan,95483447,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"3,40",-,-,-,-,4 - Aprobado,-,-,-,"2,20","4,10",-,-,-,-,-,-,-,-,-
+2628,Díaz Insua,Ailín Rocío,42145613,Almagro,ASC,Almagro,ASC,,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,"3,70",-,-,-,9 - Aprobado,7 - Aprobado,-,-,-,"7,10",-,-,-,-,-,-,-,-,-,-
+2629,de la Fuente,Javier,16599452,-,,-,,,YA-BD2A,-,-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2764,Vargas,Hugo Hernan,39915996,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2946,Alumno,SEB,alumno_seb,-,,-,,A,YA-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3828,Blackman,Karina,kblackman,-,,-,,,BE-BD2C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

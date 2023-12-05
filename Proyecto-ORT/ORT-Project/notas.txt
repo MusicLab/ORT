@@ -1,0 +1,5 @@
+habilitar conexiones en bd
+
+GRANT ALL ON midleware.* to 'root'@'192.168.0.220' IDENTIFIED BY 'Esquela' WITH GRANT OPTION;
+GRANT ALL ON sge.* to 'root'@'192.168.0.220' IDENTIFIED BY 'Esquela' WITH GRANT OPTION;
+

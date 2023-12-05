@@ -1,0 +1,657 @@
+userid,Apellido(s),Nombre,Nombre de usuario,Institución,Departamento,1-Sede,2-Carrera,class,groupid, Nota Final Cursada (REQUERIDO POR LA COORDINACIÓN),1° Final y 2° Recuperatorio - 09/12 Diciembre 2020,1° fecha - Final Febrero,1°Parcial Ambas Sedes,2° Parcial Ambas Sedes,2° fecha - Final Diciembre,2° fecha - Final Febrero,3°Parcial Ambas Sedes,ArrayList,Asistencia,Codificación de Algoritmos en Java,Compilando en Java,Creación de proyectos Java con Eclipse,Curso,Entrega Trabajo práctico 1,Entrega Trabajo práctico 2,Entrega del TP 3,Final corto 09/12,Final corto 15/12,Grupo TPrac,Las variables en Java,Nota Final 1°Llamado Diciembre,Nota Final 1°Llamado Febrero,Nota Final 2°Llamado Diciembre,Nota Final 2°Llamado Febrero,Nota Final Llamado Julio,POO y Java,"Programa, Planificación y Aprobación",Recuperatorio Ambas sedes,SEGUNDO recuperatorio Ambas sedes,Trabajos Prácticos,Un breve panorama sobre Java
+28,Kaplan,Claudia,ckaplan,-,,-,,,YA-THPB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+109,Uno,Alumno,a1,-,,-,,,NO ACREDITADOS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+206,Rosito,Facundo,30394187,-,,-,,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+349,Castagnola,Lucas,35962979,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"9,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+442,Berkman,Pablo,40241212,-,,-,,,YA-THPG,-,-,-,"8,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+460,Peirano,Ignacio Gabriel,34739669,Almagro,ASC,Almagro,ASC,,YA-THPA,7 - Aprobado,-,-,"6,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+529,Grosso,Alejandro Matias,agrosso,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+616,Escuder,Santiago,36931311,-,,-,,,FINAL,-,"2,00","10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+647,Rodriguez,Fernando Esteban,30821588,almagro,,almagro,,,YA-THPC,9 - Aprobado,-,-,"9,00","8,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+707,Galperin,Gustavo,33905544,-,,-,,,YA-THPF,-,-,-,"10,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+947,Perez Maisenti,Noel,38588716,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"1,43",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1041,pepe,PEPE,pepe,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1064,Sayago,Franco,39372004,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1145,Giongrande,Mariano,28643113,almagro,,almagro,,,YA-THPF,-,-,-,"9,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+1178,Menendez,Matias Hernan,36320145,-,,-,,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+1276,Maria Celeste,Martins,39489948,ORT,,ORT,,,YA-THPE,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1363,Cravenna,Leonardo Ezequiel,36931007,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1399,BACOTICH BAEZ,GUSTAVO LUIS,38709505,almagro,,almagro,,,YA-THPG,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1528,SAINTE MARIE,EUGENIO,38707149,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1578,Schoon,Melisa,38151440,-,,-,,,YA-THPE,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+1600,MAGALLANES DUNOGUIER,MATIAS ANDRES,38072397,almagro,ASC,almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1670,Vilchez,Florencia,35367220,-,,-,,,YA-THPF,-,-,-,"6,00","6,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1685,Soler,Diego,32439638,Belgrano,ASC,Belgrano,ASC,,YA-THPA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1736,Ostinelli,Roberto Oscar,35378304,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"0,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1751,Unías Caminos,Fernando Alan,42649904,Belgrano,ASC,Belgrano,ASC,A,no hay datos,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1826,GUZMAN,JOAQUIN ALEJANDRO,39457900,Almagro,ASC,Almagro,ASC,,YA-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1847,Cafiero,Agustina,39644259,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1855,Guzman Perdomo,Stefania,93989068,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1861,Nardi,Nicolas Federico,40540857,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+1919,MAZZONI,LUCAS EZEQUIEL,42253191,almagro,ASC,almagro,ASC,,YA-THPD,7 - Aprobado,-,-,"8,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,"10,00"
+2055,Acuna,Juan Francisco,35357698,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,-,-
+2071,Cundari,Lucas,38066761,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2112,Ventura,Luciano,39387916,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2160,FAVRE,NAZARENO OMAR,41195743,Almagro,ASC,Almagro,ASC,A,YA-THPB,-,-,-,"6,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2183,Loria,Sofia,42302052,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-
+2198,Nuñez,Javier Maximiliano,30230394,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2222,VALDEZ,NESTOR ARIEL,18896217,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,"2,00","2,00",-,-,-,-,"8,57",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+2264,Bronsztein,Alan Uriel,41918430,Almagro,ASC,Almagro,ASC,,FINAL,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2272,Carlo,Karina susana,18854687,Almagro,ASC,Almagro,ASC,,YA-THPC,7 - Aprobado,-,-,"6,00","7,00",-,-,-,-,-,-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2284,CHAVEZ,GISELLE,32149924,almagro,ASC,almagro,ASC,,YA-THPB,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2324,Gutierrez,Trinidad,28396665,almagro,ASC,almagro,ASC,,YA-THPF,-,"2,00",-,"0,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+2360,Orue,Andres Pablo,36930199,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2371,Ramirez,Daniel,34343569,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,"10,00","10,00",-,-,-,-,"5,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2375,Risso Patron,Carlos Alejandro,39317382,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+2391,Straface,Tomas Agustin,43100559,Almagro,ASC,Almagro,ASC,,FINAL,-,-,"9,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2393,Svarter,Fernando Elian,36929971,Almagro,ASC,Almagro,ASC,,NO ACREDITADOS,-,"0,00",-,-,-,-,"4,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2400,Venturini,Santiago Luis,39211732,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2406,Vitello,Daniel German,38618991,Almagro,ASC,Almagro,ASC,,no hay datos,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2443,Botella,Ian Leandro,41970487,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2450,Giacomozzi,Giuliano,42494032,Belgrano,ASC,Belgrano,ASC,,FINAL,Ausente,-,-,-,-,-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2496,Bincoletto,Ulises Alejandro Emanuel,38683226,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2500,D Estepa,Carolina,29695793,Almagro,ASC,Almagro,ASC,,YA-THPB,-,-,-,-,-,"2,00","4,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,2 - Reprobado,-,-,-,-,-,-,-
+2514,Oillataguerre,Ezequiel Adrian,27767523,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2530,Carreño,Jhon,95831198,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2567,Gomez,Lucas Santiago,40572392,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,2 - Reprobado,-,-,-,-,-,-,-
+2610,Maresca,Fabricio,32402062,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2633,Zalcman,Nicolas Uriel,42013505,-,,-,,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2685,Estrada,Hugo Daniel,14619652,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2700,Gonzalez Muchen,Christian,41063363,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"6,36",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2701,Graziani,Bruno Augusto,38784215,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2702,Guevara,Noelia,28243440,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-,-,-,-,-
+2704,Helu,Dardo,36716081,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2723,Meijomil,Matias Hernan,40305302,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,2 - Reprobado,-,-,-,-,-,-,-
+2728,Nou,Xavier Joseph,41396189,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2771,Zubeldia,Gonzalo Javier,38675500,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,2 - Reprobado,-,-,-,-,-,-,-
+2780,Ayala,Dario,41703463,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2788,Blanco,Lucas German,35233965,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2816,De Lima Carvalho,Joao Luis,95964239,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2844,HEREDIA,MATIAS NAHUEL,36528288,almagro,ASC,almagro,ASC,,YA-THPG,6 - Aprobado,"5,00",-,"9,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,"10,00"
+2845,Horestein,Lucas Ariel,39911914,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2852,Ita,Tamara Antonella,42996553,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2858,Leale,Nicolas Jose,38612256,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2862,Linares,Juan Pablo,40866630,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2880,Mereles,Andres Gabriel,35087641,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2881,Modugno,Julian Franco,42629750,Almagro,ASC,Almagro,ASC,,FINAL,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2885,Negretti Dietrich,Ignacio,35111025,Almagro,ASC,Almagro,ASC,,YA-THPA,-,"4,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+2897,Pinella,Miguel Hernan,37932974,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2902,Ramirez Angarita,Luis Alejandro,95965787,Almagro,ASC,Almagro,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2907,Rodriguez,Sebastian,28864200,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2913,Saeg Danieluk,Agustin Ivan,42341615,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2923,Solares,Cristian Jeremias,40393280,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2933,VERLY,TOMAS,42659147,Almagro,ASC,Almagro,ASC,,YA-THPA,-,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2943,Sanchez,Ignacio,cruiz_yahoo,-,,-,,A,no hay datos,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2958,Altamura,Marcelo,40972427,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2964,Arrigone,Federico,39347215,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"6,00",-,-,-,-,-,"9,17",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2982,Boyatjian,Diego Antranig,36806732,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3005,Coniglio,Leonel,30994814,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-,-,-
+3006,Cordoba Areder,Lucas,35548497,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,"7,00",-,-,-,-,-,"8,89",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3018,Di Dionisio,Matias,42147559,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3024,ELENA,FEDERICO MATIAS,37772110,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3025,EMANUELE DE STEFANO,MATIAS GUSTAVO,41894689,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3031,FARIAS,MATIAS ALEJANDRO,35728926,almagro,ASC,almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3035,Fernandez Eduardo,Lucas Daniel,40569907,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"8,50","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+3036,Flamenco,Emilio Raul,35375492,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3038,Formiconi,Macarena,38089075,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3042,Fuentes,Lucian,34586770,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"7,14",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3047,Garcia Perez,Hector Maximiliano,30011493,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3048,Garzón,Bruno,39062482,Belgrano,ASC,Belgrano,ASC,A,FINAL,Ausente,-,-,-,-,"2,00","2,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,2 - Reprobado,-,-,-,-,-,-,-
+3050,Getti,Daniel David,38997693,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,5 - Aprobado,-,-,-,-,-,-,-,-,-,-
+3064,Kolinski,Jonatan Emanuel,37035818,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3065,Krause Miranda,Nicolas Eduardo,32553728,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3076,Loughry,Tomas,36702458,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,2 - Reprobado,-,-,-,-,-,-,-
+3085,Materano Pichardo,Gilberto Jose,95842903,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3086,Matles,Jennifer Samantha,37417400,Almagro,ASC,Almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3089,Meza,Juan Pablo,35025299,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3123,Roca,Ignacio Tomas,39654370,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3125,Rodriguez,Ignacio Nicolas,40540283,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"4,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3135,Samora,Shanon Demian,43254160,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"2,00","9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3143,Stellato,Nahuel Hernan,43874764,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3153,Vidal,Juan Ignacio,37608275,Belgrano,ASC,Belgrano,ASC,,BE-THPD,5 - Aprobado,-,-,"7,00","5,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3155,Villarroel Davila,Mauricio Ivan,93887490,Belgrano,ASC,Belgrano,ASC,,FINAL,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3191,ORDOÑEZ AGUILAR,JOSE FERNANDO,95758084,Belgrano,DDIG,Belgrano,DDIG,,BE-THPB,-,-,-,-,-,-,-,-,-,"2,86",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3219,AGUNIN,ERNESTO PABLO JAVIER,24689234,almagro,ASC,almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3221,Aimene,Martin Miguel,33157342,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,"0,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3223,Albornoz Ibañez,Stefania,39267767,Almagro,ASC,Almagro,ASC,,FINAL,-,-,"10,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3225,Aloisio,Natalia Jacqueline,31089155,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3226,Aloisio Quibus,Alejandro Damian,32593930,Almagro,ASC,Almagro,ASC,,YA-THPC,5 - Aprobado,-,-,"5,00","4,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3229,ALSINA,EMILIANO MARTIN,38255293,Almagro,ASC,Almagro,ASC,,YA-THPE,-,-,-,"2,00",-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3237,Apaza Villalba,Veronica,94246773,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"8,57",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3245,AYALA,ROMINA NATALIA,27193540,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3250,BARRIOS,URIEL IVAN,40011019,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3253,Baumgertner,Victoria,37332039,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3254,BECK BENTIVOGLIO,SERGIO MAURICIO,42468868,Almagro,ASC,Almagro,ASC,A,YA-THPA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3257,Benitez,Hernán Emmanuel,38359369,Almagro,ASC,Almagro,ASC,,YA-THPB,-,"0,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,"10,00"
+3258,BENITEZ COLMAN,HERNAN DAVID,95110035,almagro,ASC,almagro,ASC,,YA-THPE,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3260,Bernasconi,Fernando,36191270,Almagro,ASC,Almagro,ASC,,FINAL,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3262,BIANCHI,MURIEL SOL,40135420,almagro,ASC,almagro,ASC,,YA-THPF,-,"0,00",-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3268,Brunetto,Cecilia,39243718,Almagro,ASC,Almagro,ASC,,YA-THPG,4 - Aprobado,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-
+3270,Calo,Juan Manuel,41661947,Almagro,ASC,Almagro,ASC,E,FINAL,-,"4,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3271,Cammarota,Federico,34755088,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3272,Campana Levy,Tomas,43030825,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3273,Canduri,Santiago Joel,43323877,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3278,Carranza,Selva Natalia,33509155,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3291,CHANG INSFRAN,FRANCISCO JAVIER,94488885,Almagro,ASC,Almagro,ASC,,YA-THPG,-,-,-,-,"2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3292,Chocobar,Sergio Dario,38087951,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3293,Cingerle,Federico,41352578,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,"2,00",-,"4,00","0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3294,Coderch,Luciano Ezequiel,41836602,Almagro,ASC,Almagro,ASC,,YA-THPG,-,"2,00",-,-,"0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3296,Colmenares Eduardo,Oriana Anais,95553074,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3297,Cometti,Cristian,35716158,Almagro,ASC,Almagro,ASC,,FINAL,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3307,Di Girolamo,Franco Augusto,37432701,Almagro,ASC,Almagro,ASC,,FINAL,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3309,Diaz,Diego Gabriel,39212304,Almagro,ASC,Almagro,ASC,E,FINAL,-,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3313,Dupuy De Lome,Tomas,33085536,Almagro,ASC,Almagro,ASC,,FINAL,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3315,Elena,Joaquin Oscar,38285624,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3317,Espinoza,Florencia,41560645,Almagro,ASC,Almagro,ASC,,FINAL,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3319,Fernández,Nelson Javier,37170799,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,"9,00","9,00",-,-,-,-,"8,33",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3322,Ferre,Stefania,35072077,almagro,ASC,almagro,ASC,,YA-THPF,-,-,-,"9,00","9,00",-,-,-,-,"6,67",-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3324,Ferreyra,Nicolas,32311379,Almagro,ASC,Almagro,ASC,,YA-THPE,-,-,-,"1,00",-,-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3325,Fraga,Federico Ivan,40127126,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3330,Giacobone,Daniel Alejandro,27535103,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"10,00","0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,-
+3331,Giercowski,Demian Uriel,42817241,Almagro,ASC,Almagro,ASC,,FINAL,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3341,Gonzalez,Rodrigo Agustin,38613595,Almagro,ASC,Almagro,ASC,,YA-THPG,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3351,Heer,Fernando Martin,28029213,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"2,00","0,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3354,Hidalgo Chacon,Daniel Alejandro,95850362,Almagro,ASC,Almagro,ASC,,FINAL,-,-,"2,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3355,Hurtado,Juan Raúl,42145778,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3357,Ibarra,Ivan Nestor Leonel,34541444,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3362,Kaiser,Pamela Daiana,33191025,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"2,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3369,Laborde,Ivan Diego,42470327,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"6,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,-
+3371,Lavergne,Cielo,36204762,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3373,Lerman,Alex Abel,35959774,Almagro,ASC,Almagro,ASC,,FINAL,-,"2,00","6,00",-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3375,LIMACHI,CAROLINA YANET,43176874,Almagro,ASC,Almagro,ASC,,YA-THPF,-,"2,00",-,"2,00","2,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3376,Lo Castro,Matias Ariel,38886461,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3378,LOBO,ELIANA MICAELA,41709756,almagro,ASC,almagro,ASC,,YA-THPA,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3381,LOPEZ ROCHA,EZEQUIEL SANTIAGO,40642284,almagro,ASC,almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3392,Mansilla,German Ariel,41204795,Almagro,ASC,Almagro,ASC,,FINAL,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3398,Mastrazzi Vukotich,Juan Ignacio,39627703,Almagro,ASC,Almagro,ASC,,FINAL,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3400,MAYORGA,TOMAS ARIEL,39466312,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3401,Medrano,Erik Armando,43624948,Almagro,ASC,Almagro,ASC,E,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3405,MIHURA ORTEGA,Iaki,40693398,Almagro,ASC,Almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3410,Montoya,Rodrigo Maximiliano,39913805,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3418,Muratore,Lucas Nahuel,38617780,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,"2,00",-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3423,Nuñez,Nahuel Agustin,42199276,almagro,ASC,almagro,ASC,,FINAL,-,"4,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3433,PAGLIOTTO,MATIAS NAHUEL,42226182,Almagro,ASC,Almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3438,PARADA,SANTINO ALEJO,43626528,Almagro,ASC,Almagro,ASC,E,YA-THPA,-,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3439,Paz,Miguel Matias,38887185,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,"2,00","2,00","0,00",-,-,-,"6,67",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3443,Perez Vitale,Tomas,42145682,Almagro,ASC,Almagro,ASC,,FINAL,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3445,Pietrafesa,Nicolas Nahuel,40014517,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3446,PIÑEIRO CARDENAS,NAIARA YAEL,42496953,Almagro,ASC,Almagro,ASC,A,YA-THPC,2 - Reprobado,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3450,Pontorno,Damian Eduardo,40133251,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,"2,00",-,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3452,Pozzuto,Roman Fernando,42248626,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3460,Rapetti,Tomas Agustin,39510994,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3461,Reboredo,Sofia,35540321,Almagro,ASC,Almagro,ASC,,FINAL,-,-,"7,00",-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3462,Rios,Kevin German,40571319,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,"2,00",-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3468,Rocha,Melina,42934064,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3469,Rodriguez,Agustin,42252874,Almagro,ASC,Almagro,ASC,,YA-THPE,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3479,Sanchez Valdez,Ian Jose,42821085,Almagro,ASC,Almagro,ASC,,FINAL,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3483,Scaravina,Franco Nicolas,41460879,Almagro,ASC,Almagro,ASC,,YA-THPF,-,"2,00",-,"2,00","2,00",-,-,-,-,"6,67",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3486,Sevayos,Cesar,95805575,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,"7,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3492,Tabano,Mauro Daniel,43573483,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3494,Terrens Sartore,Javier,33257631,Almagro,ASC,Almagro,ASC,,YA-THPC,8 - Aprobado,-,-,"7,00","7,00",-,-,-,-,-,-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3499,Valenzuela,Lautaro,43815634,Almagro,ASC,Almagro,ASC,,FINAL,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3501,VAZQUEZ,FEDERICO AGUSTIN,36931347,Belgrano,ASC,Belgrano,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3511,Zanettini,Lucia Melina,40971650,Almagro,ASC,Almagro,ASC,,FINAL,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3526,Pettinato,Nicolas,35727670,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3528,MORINIGO,MARTIN EUSTACIO,25949843,Almagro,ASC,Almagro,ASC,,YA-THPE,-,"2,00",-,"9,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3541,Velasquez Castillo,Erika,93800955,Belgrano,ASC,Belgrano,ASC,,BE-THPB,2 - Reprobado,"2,00",-,"2,00",-,-,-,-,-,"5,00",-,"10,00",-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-,-,-,-,"10,00"
+3570,Quiroz Vera,Juan Fernando,94198727,Almagro,ASC,Almagro,ASC,,YA-THPF,-,"2,00",-,"6,00","2,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3699,FUSARO,GIANFRANCO,39916905,Almagro,ASC,Almagro,ASC,,YA-THPA,-,"1,00",-,"2,00","1,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3700,Dolgow List,Matias Ezequiel,39639741,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3702,Bocian,Lorena Noemi,30815395,Almagro,ASC,Almagro,ASC,,YA-THPA,6 - Aprobado,"6,00",-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3917,Abas,Matías,41173510,Belgrano,ASC,Belgrano,ASC,,BE-THPA,6 - Aprobado,-,-,"10,00","5,00","4,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-,-,-
+3918,Aguilar,Daniel Fernando,33803064,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"10,00","8,00",-,-,-,-,"6,67",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+3919,Aguliar Valencia,Jenny Fernanda,95691986,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"2,00",-,-,-,-,-,"5,71",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3920,Alvez,Ignacio,38657919,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,"2,00",-,-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3921,ANDIA,FRANCISCO TOMAS,40130619,Almagro,PAE,Almagro,PAE,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3923,PRUEBA,GUIDO MATUSEVICH,30448754,-,,-,,,YA-THPA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3924,ACHARES,JUAN IGNACIO,38889296,almagro,,almagro,,,YA-THPA,-,-,-,"9,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3925,Alvarez,Pablo Dario,31431565,almagro,ASC,almagro,ASC,,YA-THPA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3926,ARAGONE,ANALIA LETICIA,26874078,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3927,Balarino,Alexia Sol,34813612,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3928,Basso,Ignacio Gustavo,29381383,almagro,,almagro,,,YA-THPA,4 - Aprobado,"4,00",-,"2,00","0,00","7,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,"10,00"
+3929,Bianchi,Gaston Ezequiel,41396167,almagro,ASC,almagro,ASC,,YA-THPB,-,-,-,"2,00",-,-,-,-,-,"6,67",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3930,BUSTELO,FACUNDO MARTIN,41915022,almagro,,almagro,,,YA-THPA,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3931,CAPONE,LAUTARO,39346317,almagro,,almagro,,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3932,Cebey,Candela,38797704,almagro,,almagro,,,YA-THPA,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3933,CLIMENTE,TOMAS,34755059,Almagro,ASC,Almagro,ASC,,YA-THPH,10 - Aprobado,-,-,"9,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3934,COTTET,FRANCISCO ROBERTO,33658488,almagro,,almagro,,,YA-THPA,6 - Aprobado,"7,00",-,"8,00","6,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,-
+3935,DEGAUDENCI,PEDRO SEBASTIAN,32243375,almagro,,almagro,,,YA-THPA,-,"0,00",-,"7,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3936,DOMINGUEZ GORDON,IARA,42645733,almagro,,almagro,,,YA-THPA,6 - Aprobado,-,-,"8,00","6,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-
+3937,ESEREQUIS JUNOR,Tomás Alejandro,39775229,almagro,,almagro,,,YA-THPA,7 - Aprobado,-,-,"9,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3938,Filizzola,Martin,41824770,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,"0,00",-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3939,GARCIA,JUAN MANUEL,32830311,almagro,,almagro,,,YA-THPA,9 - Aprobado,-,-,"2,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3940,GODOY,RUBEN RAFAEL,30223353,almagro,,almagro,,,YA-THPA,-,"2,00",-,"6,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+3941,Graña,Agustin,35972786,almagro,,almagro,,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3942,JORIO GNISCI,MARIELA NOEL,32111851,almagro,ASC,almagro,ASC,,YA-THPA,-,"2,00",-,"6,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+3944,LOZA,JUAN MANUEL,38622653,almagro,,almagro,,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3945,MANTEROLA,THOMAS GERONIMO,41834095,Belgrano,ASC,Belgrano,ASC,,YA-THPH,2 - Reprobado,-,-,"4,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3946,MORGENSTERN,FEDERICO MATIAS,33209884,Almagro,ASC,Almagro,ASC,,YA-THPH,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3947,NOWOSAD,ALAN,36806890,almagro,,almagro,,,YA-THPA,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3948,Otturi,Juan Ignacio,39760291,Almagro,ASC,Almagro,ASC,,YA-THPH,10 - Aprobado,-,-,"10,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3949,Pausa,Ignacio,28231411,Almagro,ASC,Almagro,ASC,,YA-THPH,6 - Aprobado,"7,00",-,"8,00","3,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"7,00",-,-,"10,00"
+3950,PEREYRA,PABLO,30591047,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-
+3951,SANCHEZ,NAIARA,40234821,almagro,,almagro,,,YA-THPA,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3952,ROA,JUAN NICOLAS,34179095,almagro,,almagro,,,YA-THPA,-,-,-,"2,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3953,RODRIGUEZ,ROXANA,31177453,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,"2,00",-,"0,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,-
+3954,RUIZ,MELANY CRISTINA,40007529,almagro,,almagro,,,YA-THPA,6 - Aprobado,"6,00",-,"7,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3955,SILVA,HECTOR CAMILO,43738804,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3956,TELLECHEA,LEANDRO ERNESTO,35271431,Almagro,ASC,Almagro,ASC,,YA-THPA,-,"2,00",-,"8,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+3957,VALLEJOS,ADRIAN EMANUEL,39117566,Almagro,ASC,Almagro,ASC,A,YA-THPH,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3958,VILLEGAS,ALFREDO ANTONIO,36359962,almagro,,almagro,,A,YA-THPA,-,-,-,"8,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,-
+3959,Alba,Gabriela,18905522,almagro,,almagro,,,YA-THPB,5 - Aprobado,-,"10,00","8,00","2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-
+3960,AMALFITANI,JULIN ALEJANDRO,36171492,almagro,,almagro,,,YA-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3961,ARAMAYO,GISELLA MARIA,38511609,almagro,,almagro,,,YA-THPB,8 - Aprobado,-,-,"10,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3962,BANEGA,SEBASTIAN,30614297,almagro,,almagro,,,YA-THPB,7 - Aprobado,-,-,"8,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3963,BAZAN,PABLO IVAN,38677722,almagro,,almagro,,,YA-THPB,-,-,-,"2,00",-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3964,Billi,Laura,28985507,almagro,,almagro,,,YA-THPB,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3966,Caputo,Tadeo,43719118,almagro,,almagro,,,YA-THPB,10 - Aprobado,-,-,"9,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3967,CERNA QUISPE,DANIELA,40125774,almagro,,almagro,,,YA-THPB,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+3968,COBEAGA,IAN LEONEL,39588411,almagro,,almagro,,,YA-THPB,4 - Aprobado,"10,00",-,"9,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,10 - Aprobado,-,-,-,-,-,-,"4,00",-,-,"10,00"
+3969,CRISCUOLO,FEDERICO MARTIN,30664318,almagro,,almagro,,,YA-THPB,6 - Aprobado,"5,00",-,"9,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,5 - Aprobado,-,-,-,-,-,-,"6,00",-,-,"10,00"
+3970,DERMISACHE,SALMA ROCIO,42252693,almagro,ASC,almagro,ASC,,YA-THPB,6 - Aprobado,-,"10,00","10,00","2,00","2,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,"10,00"
+3971,DOS SANTOS,CESAR EMANUEL,42614696,almagro,,almagro,,,YA-THPB,10 - Aprobado,-,-,"9,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3972,ESPINOLA,NICOLAS BRIAN,38175852,almagro,,almagro,,,YA-THPB,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3973,FISZSON,TOM,44843018,almagro,ASC,almagro,ASC,A,YA-THPB,8 - Aprobado,-,-,"10,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3974,Garnica,German,41856351,almagro,,almagro,,,YA-THPB,8 - Aprobado,-,-,"10,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3975,GOLDSTEIN,BRENDA MARGALIT,42252553,Belgrano,,Belgrano,,,YA-THPB,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3976,GRAU,MATIAS LUCAS,42253760,almagro,,almagro,,,YA-THPB,-,-,-,"4,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3977,JUCHT,GABRIEL,29718811,-,,-,,,YA-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3978,Lopez,Agustin,38788324,almagro,,almagro,,,YA-THPB,-,-,-,"5,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3979,LUCERO,OSVALDO MATIAS,41265239,almagro,,almagro,,,YA-THPB,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3980,MANTILLA,JORGE ENRIQUE,95026756,almagro,,almagro,,,YA-THPB,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3983,NUEZ BIANQUET,PAOLA,37904753,almagro,ASC,almagro,ASC,,YA-THPE,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3984,PALACIOS,MARTIN MARIANO JOSE,36275703,almagro,,almagro,,,YA-THPB,-,-,-,-,-,-,-,-,-,"0,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3985,PAVON,LUIS ALBERTO,37279172,almagro,,almagro,,,YA-THPB,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3986,Pérez,Heidy,95684576,almagro,,almagro,,,YA-THPB,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3987,QUISPE MAMANI,JOSE VLADIMIR,94031314,almagro,,almagro,,,YA-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3988,RODRIGUEZ,ALEXIS OSCAR MATIAS,38399770,almagro,,almagro,,,YA-THPB,7 - Aprobado,-,-,"6,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3989,ROMERO,BELEN ELIZABETH,38983628,almagro,,almagro,,,YA-THPB,7 - Aprobado,-,-,"10,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,"10,00"
+3990,RUSSO,FABRICIO WALTER,25669495,almagro,,almagro,,,YA-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3991,SCHWEMMER,EZEQUIEL IGNACIO,40729501,almagro,,almagro,,,YA-THPB,-,-,-,"8,00","4,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-
+3992,SOLARO,GUIDO,43817233,almagro,,almagro,,,YA-THPB,7 - Aprobado,-,-,"10,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,"10,00"
+3993,TELLECHEA GARCIA,MAURO,27593597,-,,-,,,YA-THPB,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3994,VALLEJOS,EIRA NEHUEN,38708838,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"8,33",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3995,VIVAS LAZARTE,GASTON ALEJANDRO,31554164,almagro,,almagro,,,YA-THPB,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3996,Alba Quiroga,Jorge,19039090,almagro,,almagro,,A,YA-THPC,7 - Aprobado,-,-,"7,00","3,00","2,00",-,-,-,-,-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-
+3997,Amerhanov,Artióm,93781510,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3998,Ariza,Cristian Daniel,43803837,almagro,,almagro,,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+3999,BANI,DANIELA ALEJANDRA,34984974,Almagro,ASC,Almagro,ASC,,YA-THPC,7 - Aprobado,-,-,"4,00","9,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4000,BAZAN SALIH,MARIA ISABEL,95923480,Almagro,ASC,Almagro,ASC,,YA-THPH,4 - Aprobado,"4,00","2,00","3,00","2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4001,BISCARO,PABLO,20914663,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4002,CAFFARENA,SANTIAGO,29469194,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,-,-,"8,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4004,Cesan,Pablo,31554167,Almagro,ASC,Almagro,ASC,,YA-THPH,5 - Aprobado,"5,00",-,"7,00","2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"3,00",-,-,-
+4005,CONDORI,LEONARDO MARIANO,28554614,almagro,ASC,almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4006,D'AMICO,TOMAS AGUSTIN,41614731,Almagro,ASC,Almagro,ASC,,YA-THPH,9 - Aprobado,-,-,"10,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4008,Duek,David Shelomo,42025684,Almagro,ASC,Almagro,ASC,E,YA-THPC,6 - Aprobado,"2,00",-,"6,00","2,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-
+4009,FADIC,LUCAS GUSTAVO,31695436,almagro,,almagro,,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4010,FLORES,ALEXANDER,37992807,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4011,GIAIMO,ALEJO ARIEL,32355672,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"5,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4012,Gonzalez,Ana Jordana,35146556,almagro,,almagro,,,YA-THPC,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4013,GRIFFONE,CAROLINA,32575763,almagro,,almagro,,,YA-THPC,2 - Reprobado,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4014,KOBALENKO,AXEL,39390094,almagro,,almagro,,,YA-THPC,2 - Reprobado,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4015,LOPEZ EL ALI,DYLAN,42930318,almagro,,almagro,,,YA-THPC,8 - Aprobado,-,-,"8,00","7,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4016,Luna,Mayra,41150708,almagro,,almagro,,,YA-THPC,2 - Reprobado,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4017,MARCELO CASTILLO,CARLOS ADRIAN,41003954,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,"2,00",-,"10,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4018,Michlig,Maria de los Angeles,30468553,-,,-,,,YA-THPC,2 - Reprobado,-,-,"3,00","0,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4019,MOTTCHOUK,ANDRIY,18863332,almagro,,almagro,,,YA-THPC,Ausente,"2,00",-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4020,ORQUERA,VICTOR DANIEL SALVADOR,35570364,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4021,Pantuliano,Alejandro,30860508,almagro,,almagro,,,YA-THPC,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4022,Payo,Juan Ignacio,32593808,almagro,,almagro,,,YA-THPC,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4023,PLUMARI,STEFANO,40243440,almagro,,almagro,,,YA-THPA,8 - Aprobado,-,-,"9,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4024,RAMIREZ,JESUS GABRIEL,40395476,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4025,ROMERO,CAROLINA ELIZABET,41913986,Almagro,ASC,Almagro,ASC,,YA-THPH,6 - Aprobado,-,-,"8,00","3,00",-,"7,00",-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"8,00",-,-,"10,00"
+4026,SANCHEZ,MATIAS LEANDRO,42662535,Almagro,ASC,Almagro,ASC,,YA-THPH,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4027,SCLAR,BARREIRO FRANCISCO JAVIER,35695054,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4028,SOLER,ALEJANDRO DANIEL,38992137,almagro,,almagro,,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4029,Testamanti,Eugenia,35863971,Almagro,ASC,Almagro,ASC,,YA-THPH,7 - Aprobado,-,-,"7,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4030,VAZQUEZ,FEDERICO ARIEL,29752258,Almagro,ASC,Almagro,ASC,,YA-THPH,8 - Aprobado,-,-,"9,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4031,Zacarías,Edgardo Adrián,36109639,almagro,,almagro,,,YA-THPC,2 - Reprobado,"2,00",-,"5,00","3,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"3,00",-,-,-
+4033,Amundarain,Gabriela,95722825,almagro,,almagro,,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4034,Artaza,Marta,29905670,almagro,ASC,almagro,ASC,,YA-THPA,7 - Aprobado,-,-,"6,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4035,BARACE,GUILLERMO OSCAR,29573093,almagro,,almagro,,,YA-THPD,-,-,-,"2,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4036,Beczkowski,Camila,39459678,almagro,,almagro,,,YA-THPD,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4037,Blanco,Demian,42249027,almagro,,almagro,,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4038,CALLEGARI,IVAN FRANCO,40808995,almagro,,almagro,,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4039,Carugati,Guido,41559234,almagro,,almagro,,,YA-THPD,7 - Aprobado,-,-,"10,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4041,CONZEVOY,NICOLAS,38520354,almagro,,almagro,,A,YA-THPD,7 - Aprobado,-,-,"7,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,"10,00"
+4042,Damp,Nacho,43722222,almagro,,almagro,,,YA-THPD,4 - Aprobado,"4,00",-,"2,00","2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4043,DIDONI,ANGEL FRANCISCO,41493806,almagro,,almagro,,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4044,Reparado Duffau,Brian,32936453,almagro,,almagro,,,YA-THPD,7 - Aprobado,-,-,"4,00","5,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,"10,00"
+4046,Gianetti Garrido,Ivan,37376583,almagro,,almagro,,,YA-THPD,4 - Aprobado,"8,00",-,"10,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,8 - Aprobado,-,-,-,-,-,-,"4,00",-,-,"10,00"
+4047,Gonzalez Fuentes,Joaquin,42248767,almagro,,almagro,,,YA-THPD,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4048,Grondona,Juan,43407583,almagro,,almagro,,,YA-THPD,10 - Aprobado,-,-,"10,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4049,Kreimer,Julia,38389428,almagro,,almagro,,,YA-THPD,4 - Aprobado,"8,00",-,"6,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4050,LOPEZ,FEDERICO ANDRES,34975874,almagro,,almagro,,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4051,MARTINEZ,DAMIAN,28507154,-,,-,,,YA-THPD,7 - Aprobado,-,-,"9,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4052,Miñán,Gerardo,37952271,almagro,,almagro,,,YA-THPD,4 - Aprobado,"4,00",-,"8,00","2,00","2,00","0,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4053,NAVARRO,LEANDRO JAVIER,31255986,almagro,,almagro,,,YA-THPD,-,-,-,"6,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4054,ORTEGA,BEATRIZ ELEONORA,27628695,almagro,,almagro,,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4055,PAOLI,GABRIEL,32891911,almagro,,almagro,,,YA-THPD,7 - Aprobado,-,-,"10,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4056,Paz,Maximiliano Alejandro,33227266,almagro,,almagro,,,YA-THPD,4 - Aprobado,"7,00",-,"9,00","4,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-,"4,00",-,-,-
+4057,Puebla,Leandro,37417222,almagro,,almagro,,,YA-THPD,4 - Aprobado,"8,00",-,"9,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,8 - Aprobado,-,-,-,-,-,-,"4,00",-,-,"10,00"
+4058,Ramis,Ivan,36397441,almagro,,almagro,,,YA-THPD,4 - Aprobado,"7,00",-,"6,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4060,ROMERO VICTORICA,JOAQUIN MANUEL,35425655,almagro,,almagro,,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4061,SANDRIN,ALEJANDRO ADRIAN,31896252,almagro,,almagro,,,YA-THPD,4 - Aprobado,"4,00",-,"5,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4062,SERANTES,MARTIN ALEJANDRO,38456735,Belgrano,ASC,Belgrano,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4063,Stul,Alejandro,33710710,-,,-,,,YA-THPC,6 - Aprobado,"2,00",-,"5,00","3,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-
+4064,TIRADO MENDOZA,KELVIN AARON,95839355,almagro,,almagro,,,YA-THPD,-,-,-,"6,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4065,Vedia Peñaloza,Facundo,40242002,almagro,,almagro,,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4066,ALONSO,JORGE ABEL,36636387,almagro,,almagro,,,YA-THPE,8 - Aprobado,-,-,"2,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4067,ANTINORI,NATALIA ANDREA,34493497,almagro,,almagro,,,YA-THPE,-,-,-,"1,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4068,Asquini,Leonardo Hugo,25127244,almagro,,almagro,,,YA-THPE,6 - Aprobado,"2,00","2,00","6,00","5,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4069,BARANOSKI,ALOIZ LAUTARO,42565776,almagro,,almagro,,,YA-THPE,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4070,Benitez,Cristian,37554826,almagro,,almagro,,,YA-THPE,-,-,-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,-
+4071,Bojosian,Alvaro,35358213,almagro,,almagro,,,YA-THPE,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4072,CANE,GONZALO,35363834,almagro,,almagro,,,YA-THPE,-,-,-,"1,00",-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4073,CASIN,CESAR OMAR,29498939,almagro,,almagro,,,YA-THPE,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4074,CHAVEZ,MARIANA ELIZABETH,29823258,almagro,,almagro,,,YA-THPE,8 - Aprobado,-,-,"2,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4075,Cornú Acuña,Sofia Belén,36126683,almagro,,almagro,,,YA-THPE,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4076,DAVID,SANTIAGO,41471112,almagro,,almagro,,,YA-THPE,-,"2,00",-,"1,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4077,DIEZ,MANUEL MATAS,41638955,almagro,,almagro,,,YA-THPE,7 - Aprobado,-,-,-,"7,00",-,-,-,-,"5,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4078,ELGART,CARLA ESTEFANIA,37358303,almagro,,almagro,,,YA-THPE,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4079,Feder,Ariel,39417573,almagro,,almagro,,,YA-THPE,6 - Aprobado,"6,00",-,"2,00","2,00","4,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4080,GALLEGO,JORGE LUIS,33203551,almagro,,almagro,,,YA-THPE,-,-,-,"1,00",-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4081,Gimenez Osorio,Juan Matias,38070447,almagro,,almagro,,A,YA-THPE,6 - Aprobado,-,-,"2,00","6,00","2,00","6,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4082,GONZALEZ,MATIAS ALEJANDRO,33081133,almagro,,almagro,,,YA-THPE,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,-
+4083,Guarnaccia,Matías,39095589,almagro,,almagro,,,YA-THPE,-,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4084,LAFIOSCA,FLORENCIA ANABELLA,35353379,almagro,,almagro,,,YA-THPE,-,-,-,"7,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,-
+4085,LOPEZ YACUBIAN,JUAN PABLO,32151470,almagro,,almagro,,,YA-THPE,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,"8,00",-,-,"10,00"
+4086,MAGIRENA,DAMIAN HECTOR,34114487,almagro,,almagro,,,YA-THPE,-,-,-,"1,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4087,MITROKHIN,CONSTANTIN,93427282,almagro,,almagro,,,YA-THPE,8 - Aprobado,-,-,"9,00","8,00",-,-,-,-,"5,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4088,NAVARRO,MARIA FERNANDA,30745952,almagro,,almagro,,,YA-THPE,-,-,-,"6,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4089,ORTIZ APARICIO,RAIMER ALEXANDER,95450452,almagro,,almagro,,,YA-THPE,-,-,-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,-
+4090,Papierman Rojas,Kevin Ian,42150166,almagro,,almagro,,,YA-THPE,-,-,-,"2,00","1,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4091,PELUSO,MATIAS DANIEL,42225451,almagro,,almagro,,,YA-THPE,-,"2,00",-,"8,00","2,00",-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4092,Pulido Coss,Mayerlyn Yarleny,95680564,Belgrano,ASC,Belgrano,ASC,,YA-THPE,6 - Aprobado,"6,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-
+4093,REBOLLO,GREGORIO SEBASTIAN,43781492,almagro,,almagro,,,YA-THPE,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"1,00",-,-,-
+4094,Rodriguez,Jonatan,32578844,almagro,,almagro,,,YA-THPE,-,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4095,ROSANO NUEZ,FERNANDO RODRIGO,94269749,almagro,,almagro,,,YA-THPE,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4096,Santillan,Ignacio,41777130,almagro,,almagro,,,YA-THPE,-,-,-,"2,00","0,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4098,SUAREZ DIAZ,MARTIN,39870379,Almagro,ASC,Almagro,ASC,,YA-THPE,4 - Aprobado,-,-,"7,00","4,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4099,TOMASIELLO,GABRIEL ANTONIO,31175231,almagro,,almagro,,,YA-THPE,-,-,-,"6,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4100,VELA RODRIGUEZ,JASON JOAQUIN,96007941,almagro,ASC,almagro,ASC,,YA-THPE,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4101,ALONZO,TRAICY,36119013,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4102,ANTONIO COLQUE,JHONATHAN GARY,93939904,almagro,,almagro,,,YA-THPF,6 - Aprobado,-,-,"5,00","8,00",-,"7,00",-,-,"5,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4103,AUPI,LUCAS,39077076,almagro,,almagro,,,YA-THPF,-,"0,00",-,"9,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4104,BARRETO,LEANDRO EZEQUIEL,32252177,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4105,Benito Fuentes,Christian Alfredo,42301048,almagro,,almagro,,,YA-THPF,-,"6,00",-,"8,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"6,00",-,-,-
+4106,Borowicz,Adrian,36528375,almagro,,almagro,,,YA-THPF,-,-,-,"9,00","10,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4107,CANSECO,PABLO SEBASTIAN,23014889,almagro,,almagro,,,YA-THPF,-,-,-,"0,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4108,CASTELLANOS VELOZA,GINO MICHAEL,94715424,Almagro,BIO,Almagro,BIO,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4109,CIFUENTES,JONATAN DANIEL,33706039,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4110,CORONEL,GUSTAVO ANDRES,26146575,almagro,,almagro,,,YA-THPF,-,-,-,"2,00","0,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4111,De Cristofaro,Matias Nicolas,29410961,almagro,,almagro,,A,YA-THPF,-,-,-,"0,00","0,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4112,Distefano,Andres,36806982,almagro,,almagro,,,YA-THPF,-,-,-,"8,00","9,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4113,ELKES,MAGALI MIJAL,42567145,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4114,FERNANDEZ,MARIA BELEN,37481746,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"5,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4115,Gonzalez Sudak,Matias Sebastian,34400459,-,,-,,,YA-THPF,-,-,-,"10,00","9,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4116,HERRERA,MARA BELEN,32825653,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4117,Leon,Maira,36087632,almagro,,almagro,,,YA-THPF,-,-,-,"10,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4118,Loredo Mendez,Israel Simon,32654764,almagro,,almagro,,,YA-THPF,-,"2,00",-,"0,00","7,00","0,00","4,00",-,-,"5,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4119,MAIDANA,HORACIO ENRIQUE,21469439,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"3,33",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4120,Moreno Diaz,María Victoria,31665211,almagro,,almagro,,,YA-THPF,-,-,-,"8,00","2,00","6,00",-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-
+4121,Negrete,Carla Yhan,19050380,almagro,,almagro,,,YA-THPF,-,-,-,"2,00","0,00",-,-,-,-,"6,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,"10,00"
+4122,OSORIO VITALE,FACUNDO SALVADOR,35960004,almagro,,almagro,,,YA-THPF,-,-,-,"2,00","0,00",-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4123,PAREDES,ANABELLA,32936835,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4124,Peña,Nestor,30642196,almagro,,almagro,,,YA-THPF,-,-,-,"8,00","5,00","2,00","5,00",-,-,"8,33",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4125,PUZARI,URETA SANDRO,95765182,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4126,REMERSARO,MARTIN LEONARDO,24872527,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4128,ROSAS ALVAREZ,IRMA CELESTE,95759439,Belgrano,ASC,Belgrano,ASC,,YA-THPF,-,-,-,"0,00","2,00","8,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-
+4129,SASTRE,JOSHUA IAN,36948232,almagro,,almagro,,,YA-THPF,-,"2,00",-,"0,00","5,00",-,-,-,-,"8,33",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4130,SESTO,PABLO IGNACIO,36593548,almagro,,almagro,,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4131,SUAREZ VILLALOBOS,JUSTO HERNAN,31352663,almagro,,almagro,,,YA-THPD,4 - Aprobado,-,-,"9,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-
+4132,TORRERO,IGNACIO,40399506,Almagro,ASC,Almagro,ASC,,YA-THPH,5 - Aprobado,"2,00",-,"6,00","4,00",-,"2,00",-,-,"8,33",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4133,Venerus,Nahuel,40748806,almagro,,almagro,,,YA-THPF,-,"6,00",-,"4,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4134,ALPER,MARTIN,34430006,almagro,,almagro,,,YA-THPG,9 - Aprobado,-,-,"9,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4136,BARRIOS LOPEZ,FRANCO DAVID,40010148,Almagro,ASC,Almagro,ASC,,YA-THPG,7 - Aprobado,-,-,"8,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4137,BREZINA,NATALIA NORMA LORENA,28706598,almagro,,almagro,,,YA-THPG,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4138,CAPANDEGUI,EMMANUEL ALEJANDRO,34119010,almagro,,almagro,,,YA-THPG,6 - Aprobado,"2,00",-,"10,00","2,00","0,00","9,00",-,-,"9,17",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,-
+4139,CAYO,ANABELLA ANAHI,29921324,almagro,,almagro,,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4140,Cioffi,Nahuel Tomas,41290813,almagro,,almagro,,,YA-THPG,7 - Aprobado,-,-,"7,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4141,COSTAS,ROMINA CLARA,28509430,almagro,,almagro,,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4142,DE LA CUADRA,JORGE GABRIEL,39912015,almagro,,almagro,,,YA-THPG,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4143,DOMINGUEZ,FEDERICO ERNESTO,37118651,almagro,,almagro,,,YA-THPG,7 - Aprobado,-,-,"4,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4144,ENRIQUEZ,CARLOS AGUSTIN,31762853,almagro,,almagro,,,YA-THPG,7 - Aprobado,-,-,"4,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4145,FERNANDEZ SALATINO,MATIAS ARIEL,35084626,almagro,,almagro,,,YA-THPG,8 - Aprobado,-,-,"8,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4146,GARCIA,ALEJO MANUEL,37859210,almagro,,almagro,,,YA-THPG,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4147,Giovagnetti,Natalia Carolina,27683817,almagro,,almagro,,,YA-THPG,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4148,GOYENECHE,ROCIO,41587610,almagro,,almagro,,,YA-THPG,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4149,IRIARTE,LUCAS GUSTAVO,40135568,almagro,,almagro,,,YA-THPG,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4150,LEZCANO BURGOS,NICOLAS SANTOS HERNAN,30652843,almagro,,almagro,,,YA-THPG,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4151,Losano,Juan Manuel,41009122,almagro,,almagro,,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4152,MANFREDI,ASTRID DIANA CAROLINA,30038954,almagro,ASC,almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4153,MORENO,JACQUELINE LINDA,43115009,almagro,,almagro,,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4154,NOEJOVICH,IANICK EITAN,42878894,almagro,,almagro,,,YA-THPG,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4155,Ostrower,Leonel,40541827,almagro,,almagro,,,YA-THPG,9 - Aprobado,-,-,"9,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4156,PASCUAL,MANUEL JAIME,35584513,almagro,,almagro,,,YA-THPG,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4157,PEREDO,LUCIA AYELEN,40834442,Almagro,ASC,Almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4158,QUEVEDO,AGUSTINA ANA,31422802,almagro,,almagro,,,YA-THPG,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4159,REYNOSO,VICTORIA DENISSE,34087408,almagro,,almagro,,,YA-THPF,-,-,-,"9,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4161,SATALINO,MARCELO PABLO,22824906,almagro,,almagro,,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4162,SHAMA,TOMAS AGUSTIN,40231235,almagro,,almagro,,,YA-THPG,-,"2,00",-,"5,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4164,Trimarchi,Matias Sebastian,41781393,almagro,,almagro,,,YA-THPG,-,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4165,VIAVATTENE,FEDERICO MARTIN,41316739,Almagro,ASC,Almagro,ASC,,YA-THPG,6 - Aprobado,-,-,"2,00","6,00","2,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4167,BARBOSA RIBEIRO,MANUEL,43323583,Belgrano,ASC,Belgrano,ASC,,BE-THPA,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"7,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4168,Bloomer ReeVe,Federico,35380351,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"10,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4169,Caradonna,Gustavo Marcelo,32484269,Belgrano,ASC,Belgrano,ASC,,BE-THPE,6 - Aprobado,"2,00",-,"7,00","6,00",-,"8,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,8 - Aprobado,-,-,-,-,-,-,-
+4170,Carrasquero,Elyelin,96023606,Belgrano,ASC,Belgrano,ASC,,BE-THPA,6 - Aprobado,-,-,"10,00","4,00",-,"2,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4172,Darcy,Luciano,33032387,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4173,Díaz Di Meo,Santiago,40132229,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4174,Facchin,Federico Nicolas,38324151,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"9,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,-
+4175,Fiorito,Andrés,34497004,Belgrano,ASC,Belgrano,ASC,,BE-THPA,8 - Aprobado,-,-,"9,00","7,00",-,"10,00",-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4176,Garro,Noelia,35189859,Belgrano,ASC,Belgrano,ASC,,BE-THPA,8 - Aprobado,-,-,"10,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4177,Gonzalez,Matías Nicolás,40824596,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4178,Joghems,Valentín,41972680,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4179,Larrosa,Juan Ignacio,38277243,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4180,López Boveda,Francisco Matias,29383997,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"0,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4181,Martín Irigoyen,Julián,39171806,Belgrano,ASC,Belgrano,ASC,,BE-THPA,6 - Aprobado,-,-,"8,00","6,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4182,Maurig,Pablo Iván,33537573,Belgrano,ASC,Belgrano,ASC,,BE-THPA,5 - Aprobado,"10,00",-,"10,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,10 - Aprobado,-,-,-,-,-,-,"4,00",-,-,"10,00"
+4183,Miñoz,Emiliano Joaquín,38027771,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"8,89",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4184,Nally,Martin Kevin,38618310,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4185,Pereyra,Guillermo,26025907,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4186,Rocha,Nicolás Ary,37806871,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4187,Ruax Debruijn,Juan Pablo,jdebruijn,Belgrano,ASC,Belgrano,ASC,,BE-THPA,10 - Aprobado,-,-,"10,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4188,Santos,Jorge,14924916,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"3,08",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4189,Sosa,Sergio,30556947,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4190,Valls,Fernando,35323873,Belgrano,ASC,Belgrano,ASC,,BE-THPC,5 - Aprobado,-,-,"5,00","5,00","10,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-
+4191,Arbert,Gastón Andrés,31477580,Belgrano,ASC,Belgrano,ASC,,BE-THPB,7 - Aprobado,-,-,"5,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4192,Barriopedro,Santiago,39417189,Belgrano,ASC,Belgrano,ASC,,BE-THPB,10 - Aprobado,-,-,"9,00","10,00",-,-,-,-,"8,33",-,-,-,-,-,-,-,"8,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4193,Borgarelli,Luciano Santiago,37278105,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4194,Carbone,Walter Adrián,24963720,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"7,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4195,Carrion,Jaime Darío,29871367,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"2,86",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4196,Cerati,Martin Gustavo,38859435,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"8,57",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4197,Duran,María Victoria,41172215,Belgrano,ASC,Belgrano,ASC,,BE-THPB,5 - Aprobado,"5,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,5 - Aprobado,-,-,-,-,-,-,"2,00",-,-,-
+4198,Florentin,Gonzalo,38554353,Belgrano,ASC,Belgrano,ASC,,BE-THPD,8 - Aprobado,-,-,"2,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4199,Gedeon,Leandro Emilio,28909414,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"1,43",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4200,Grieco,Bruno Nicolas,36528234,Belgrano,ASC,Belgrano,ASC,,BE-THPB,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4201,Juarez,Eloy Bernabe,31443396,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4202,Ledesma Lafuente,Oriana Beatriz,39759818,Belgrano,ASC,Belgrano,ASC,,BE-THPB,8 - Aprobado,-,-,"7,00","8,00",-,-,-,-,"8,46",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4203,López Cesario,Ignacio,39909453,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"8,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4204,Martin,Ignacio,42878296,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4205,Mayer,Claudio,22154541,Belgrano,ASC,Belgrano,ASC,,BE-THPB,6 - Aprobado,-,-,"7,00","4,00","6,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,"10,00"
+4206,Miranda,Jose,24001203,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"9,17",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4207,Navarro,Diego Martin,29801106,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,"8,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4208,Pascale,Lautaro,43030505,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4209,Rasgido,Ezequiel,32322717,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4210,Rodriguez,María José,95949959,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,"2,00",-,-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4211,Rubado,Anabella,41262038,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"2,86",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4212,Sedziszow,Leandro Samuel,36595302,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"0,77",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4213,Srur,Sofía,44261613,Belgrano,ASC,Belgrano,ASC,,BE-THPB,5 - Aprobado,"5,00","7,00","5,00","2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,7 - Aprobado,2 - Reprobado,-,-,-,-,"2,00",-,-,-
+4214,Venturelli,Agustin Ezequiel,38949243,Belgrano,ASC,Belgrano,ASC,,BE-THPB,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"9,17",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4215,Zavaleta,Fernando,94099495,Belgrano,ASC,Belgrano,ASC,,BE-THPB,4 - Aprobado,"4,00",-,"4,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-,"2,00",-,-,-
+4216,Ascona,José,94561005,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"2,31",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4217,Beckermann,Agustín María,40459226,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"5,00","2,00",-,-,-,-,"8,57",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4218,Carosella,Julián Ezequiel,34390928,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4219,Cartagena,Santiago,37009143,Belgrano,ASC,Belgrano,ASC,,BE-THPC,8 - Aprobado,-,-,"9,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4220,Charovsky,Joaquín Nicolás,41836561,Belgrano,ASC,Belgrano,ASC,,BE-THPC,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4221,De Villemor Ticchetti,Michelle,93788483,Belgrano,ASC,Belgrano,ASC,,BE-THPC,2 - Reprobado,"2,00",-,"6,00","2,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4222,Echazarreta,Iñaki,35322294,Belgrano,ASC,Belgrano,ASC,,BE-THPC,10 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4223,Fernandez Gebauer,Julián Martín,38069135,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4224,Forgaral,Quimey iara,42022360,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"0,00",-,-,-,-,-,"6,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4225,Giss,Ignacio,34078517,Belgrano,ASC,Belgrano,ASC,,BE-THPC,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4226,Hertzulis,Ezequiel,41758419,Belgrano,ASC,Belgrano,ASC,,BE-THPC,7 - Aprobado,-,-,"8,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4227,Justo Alvarez,Andres,272742020,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"2,00",-,-,-,-,-,"8,67",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4228,Leon Aldazoro,Eduardo,95949472,Belgrano,ASC,Belgrano,ASC,,BE-THPC,8 - Aprobado,-,-,"4,00","9,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4229,Macrett,Nahuel,39371958,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"3,08",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4230,Martinez,Adrián Ezequiel,30367142,Belgrano,ASC,Belgrano,ASC,,BE-THPC,8 - Aprobado,-,-,"7,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4231,Melnik,Sebastián,32553486,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"5,00",-,-,-,-,-,"6,15",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4232,Mogro,Cecilia Noemi,36920289,Belgrano,ASC,Belgrano,ASC,,BE-THPC,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4233,Nola Riquelme,Lautaro,35321144,Belgrano,ASC,Belgrano,ASC,,BE-THPC,5 - Aprobado,-,-,"7,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,"10,00"
+4234,Pelayo,Pablo,30611952,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"6,00","2,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4235,Pini,Juan Pablo,37541421,Belgrano,ASC,Belgrano,ASC,,BE-THPC,2 - Reprobado,"2,00",-,"7,00","2,00",-,-,-,-,"7,14",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4237,RODRIGUEZ,NERI ALBERTO,35959887,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"2,00",-,-,-,-,-,"6,92",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4238,Sabin,María Julieta,39100964,Belgrano,ASC,Belgrano,ASC,,BE-THPC,8 - Aprobado,-,-,"6,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4239,SESTO,SEBASTIAN MATIAS,33528068,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"7,14",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4240,Stecki,Iván José,42024917,Belgrano,ASC,Belgrano,ASC,A,BE-THPC,6 - Aprobado,-,-,"8,00","6,00","2,00","2,00",-,-,"7,86",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,-,-,-,"10,00"
+4241,Vergara,Facundo,39711714,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"3,85",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4242,BAEZ,CLAUDIA,26587548,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4243,Berardo,Ignacio,39470506,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4244,Buljevich,Catalina Maria,36593733,Belgrano,ASC,Belgrano,ASC,,BE-THPC,2 - Reprobado,"2,00",-,"5,00","2,00",-,-,-,-,"9,33",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4245,Casas,Facundo,41062393,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4246,Chiaro,Marco,40454616,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4247,Delgado,Lucas,33403864,Belgrano,ASC,Belgrano,ASC,,BE-THPD,5 - Aprobado,"4,00",-,"8,00","5,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,4 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4248,Evert,Gonzalo Sebastián,43081991,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,"2,00",-,-,-,-,-,"7,86",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4249,Fernández Guiastrennec,Leonardo Adrián,31252634,Belgrano,ASC,Belgrano,ASC,,BE-THPD,10 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4250,Goncalves,Hernán,30513643,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4251,Hyland,Mateo Agustín,43084605,Belgrano,ASC,Belgrano,ASC,,BE-THPD,7 - Aprobado,"5,00",-,"2,00","7,00",-,-,-,-,"8,57",-,"10,00",-,-,-,-,-,-,-,-,-,5 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4252,Landa,Débora Mariana,37804773,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4253,Lipko,Paula,27767118,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"9,29",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4254,Marco,Catalina,39289684,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,-
+4255,Martínez,Leandro,40422756,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,"2,00",-,-,-,-,-,"7,14",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4256,Menendez,Mariano,38614761,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"2,86",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4257,Morello,Fermín,39466357,Belgrano,ASC,Belgrano,ASC,,BE-THPD,5 - Aprobado,"5,00",-,"6,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4258,Padula,Federico,32111975,Belgrano,ASC,Belgrano,ASC,,BE-THPD,8 - Aprobado,-,-,"7,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4259,PELAYO,RODRIGO SEBASTIAN,31987536,Belgrano,ASC,Belgrano,ASC,,BE-THPC,5 - Aprobado,-,-,"6,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,"10,00"
+4260,Pires Diz,Juan Manuel,37383676,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"8,57",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4261,Ringler,Maximiliano Alexis,34669037,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,"2,00",-,"2,00",-,-,-,-,-,"7,86",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4262,Romero,Federico,43035221,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"2,14",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4263,Sanchez Espigares,Maia,43441837,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"2,86",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4264,Sinatra,Santiago,40584801,Belgrano,ASC,Belgrano,ASC,,BE-THPD,7 - Aprobado,-,-,"8,00","7,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"7,00",-,-,-,7 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4265,Uccello,Gabriel,34304645,Belgrano,ASC,Belgrano,ASC,,YA-THPA,7 - Aprobado,-,-,"7,00","7,00",-,-,-,-,"9,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4266,Balbuena,Adriana Valeria,39820349,Belgrano,ASC,Belgrano,ASC,,BE-THPE,9 - Aprobado,-,-,"6,00","1,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,"9,00",-,-,"10,00"
+4267,Billán Danylyszyn,Nicolás Javier,39342804,Belgrano,ASC,Belgrano,ASC,,BE-THPE,10 - Aprobado,-,-,"10,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4268,Cabrera,Marcelo Raúl,32649151,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4269,Carrara,Javier,35424746,Belgrano,ASC,Belgrano,ASC,,BE-THPE,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4270,Corrales Morselli,Ivo,37990093,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,"2,00",-,"6,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4271,Di Tomaso,Luciano,38425425,Belgrano,ASC,Belgrano,ASC,,BE-THPD,9 - Aprobado,-,-,"7,00","9,00",-,-,-,-,"8,57",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4272,Eyssautier,Fernanda,173662580,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"0,00","1,00",-,-,-,-,"9,44",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4273,Fiora Medina,Joaquin,41738844,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"8,75",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4274,paola,garay,30529978,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4275,Gonzalez,Emiliano,43175424,Belgrano,ASC,Belgrano,ASC,,BE-THPE,9 - Aprobado,-,-,"6,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4276,Joaquín,Ariel Gastón,42237737,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,"2,00",-,"5,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4277,Langerman,Axel Joel,39466199,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"2,00","0,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4278,López,Roman,38453650,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"9,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4279,Manchinelli,Marcos Ismael,37360946,Belgrano,ASC,Belgrano,ASC,,BE-THPE,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4280,Micha,Ezequiel,36527697,Belgrano,ASC,Belgrano,ASC,,BE-THPE,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4281,Musa,Nicolas,38464628,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4282,Pallas,Fernando,31642271,Belgrano,ASC,Belgrano,ASC,,BE-THPE,8 - Aprobado,-,-,"8,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4283,Pera,Liza,95736910,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4284,Pons Gorriti,Ignacio Nicolas,43240926,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"4,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4285,Rivero,Leopoldo,42576253,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"5,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4286,Rosas,Noelia,35370070,Belgrano,ASC,Belgrano,ASC,,no hay datos,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4287,Sanchez Napal,Facundo Nahuel,31475359,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,-,-,"6,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4288,Soriano,Joaquín,37905853,Belgrano,ASC,Belgrano,ASC,,BE-THPE,10 - Aprobado,-,-,"7,00","10,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4289,Vales Flores,Juan Manuel,29987009,Belgrano,ASC,Belgrano,ASC,,BE-THPE,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4290,Zaccardi,Omar,23391162,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4291,Delucca,Juan Manuel,31090840,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4292,SZALKOWICZ,Nicolás,43730081,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4293,Toscano,Rodolfo Pablo,27310828,Belgrano,ASC,Belgrano,ASC,,BE-THPE,6 - Aprobado,"7,00",-,"5,00","2,00",-,-,-,-,"8,57",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4294,Cavallaro,Víctor Marcelo,14680732,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"0,77",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4295,Rios,Roberto,11111111,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4296,Muollo,Laura Cristina,25989234,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"6,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4297,Bogado,Marcela,22067412,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"2,31",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4298,Robledo,Gaston Martin,42420838,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4299,Tassara Petitti,Oriana Sofia,41710213,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"2,00","2,00",-,-,-,-,"9,33",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4300,Rodriguez Gutierrez,Delmer Teodomiro,94807936,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,"2,00",-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4301,Farachi,Sebastian,37248931,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,-,-,-,-,-,-,"0,71",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4302,Zanuttini,Maximiliano Nicolas,33740788,Belgrano,ASC,Belgrano,ASC,,BE-THPD,9 - Aprobado,-,-,"0,00","9,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4303,Melo Barrera,Juan camilo,95918123,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4304,Sanchez Espigares,Francisco Javier,18680943,Belgrano,ASC,Belgrano,ASC,,BE-THPE,Ausente,-,-,-,-,-,-,-,-,"0,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4305,Wittner,Ezequiel Tomas,31083333,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"5,00",-,-,-,-,-,"9,23",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4332,Machado Gonza,Matias Jose,34072116,Belgrano,ASC,Belgrano,ASC,,BE-THPB,4 - Aprobado,"4,00",-,"7,00","2,00","2,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,2 - Reprobado,-,-,-,-,"2,00",-,-,-
+4339,Stinson,Mariano,37040081,Belgrano,ASC,Belgrano,ASC,,BE-THPA,9 - Aprobado,-,-,"9,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4340,Bolet,Stephany,95831091,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"4,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4341,Cioli S,Guillermo,92819892,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"4,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4342,De Paola,Dario Emanuel,28167899,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4343,Feierstein,Ezequiel Adrian,37863812,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4344,Francos Koch,Ignacio,39244321,Belgrano,ASC,Belgrano,ASC,,BE-THPC,6 - Aprobado,-,-,"7,00","6,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4345,Kudrynski,Marcos Leonel,36787651,Belgrano,ASC,Belgrano,ASC,,BE-THPA,2 - Reprobado,-,-,"6,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,"10,00"
+4346,Majorani,Hernán,29945896,Belgrano,ASC,Belgrano,ASC,,BE-THPB,6 - Aprobado,-,-,"9,00","5,00","7,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,7 - Aprobado,-,-,-,-,-,-,-,"10,00"
+4347,Rimoldi,Yanina Paola,35316930,Belgrano,ASC,Belgrano,ASC,,BE-THPA,Ausente,-,-,-,-,-,-,-,-,"1,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4348,Gonzalez Ortiz,Carlos,94865148,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"6,25",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4349,Kweller,Jonatan,31008227,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,"4,00",-,-,-,-,-,"7,78",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4350,Deletraz,Octavio Andreas,39270541,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"8,57",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4351,Cassarino,Santiago Manuel,37786129,Belgrano,ASC,Belgrano,ASC,,BE-THPG,Ausente,-,-,-,-,-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4352,Cassaretto,Juan,43457982,Belgrano,ASC,Belgrano,ASC,,BE-THPC,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"8,67",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4353,Buezo,Leonardo,30297088,Belgrano,ASC,Belgrano,ASC,,BE-THPC,9 - Aprobado,-,-,"6,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4354,Gonzalez Tovar,Valentino,95806099,Belgrano,ASC,Belgrano,ASC,,BE-THPC,5 - Aprobado,-,-,"6,00","2,00",-,-,-,-,"9,29",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"5,00",-,-,"10,00"
+4355,Nieto,Pedro,41222503,Belgrano,ASC,Belgrano,ASC,,BE-THPC,7 - Aprobado,-,-,"6,00","7,00",-,-,-,-,"8,46",-,-,-,-,-,-,-,"8,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4356,Ranauro,Joaquin Ariel,41589208,Belgrano,ASC,Belgrano,ASC,,BE-THPC,9 - Aprobado,-,-,"6,00","9,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,"9,00",-,-,-,9 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4357,ASTORT,PABLO NICOLAS,28997144,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,"0,00",-,-,-,-,-,"7,86",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4358,Campdepadros,Jorge omar,20844077,Belgrano,ASC,Belgrano,ASC,,BE-THPC,Ausente,-,-,-,-,-,-,-,-,"4,62",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4359,Machado,Gerardo,17466794,Belgrano,ASC,Belgrano,ASC,,BE-THPC,2 - Reprobado,"2,00",-,"7,00","2,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4360,Anceri,Federico,27286289,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,-,-,"5,00",-,-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4361,Arguedas Quispe,Katerine,93914515,Belgrano,ASC,Belgrano,ASC,,BE-THPD,Ausente,-,-,"2,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4362,Mas García,Beatriz,96106571,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"10,00","8,00",-,-,-,-,"8,18",-,-,-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4363,Piazza Barzana,Dario Nelson,25704476,Belgrano,ASC,Belgrano,ASC,,BE-THPE,6 - Aprobado,"6,00",-,"2,00","6,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,6 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4364,Trentadue Parborell,Maria Victoria,29592621,Belgrano,ASC,Belgrano,ASC,,BE-THPE,4 - Aprobado,-,-,"2,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4367,López,Aldo Sebastián,30182167,Almagro,ASC,Almagro,ASC,,YA-THPF,-,"2,00",-,"0,00","2,00",-,-,-,-,"6,67",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4368,Romero,Irina Cora,29192390,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,"10,00","2,00","2,00","9,00",-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,"10,00"
+4370,MARQUEZ,GABRIEL HORACIO,40542590,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,-,-,"3,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4371,Martinez,Danila Sol,39243468,Almagro,ASC,Almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4373,María Inés,Abarrategui Fernández,26952401,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4374,ALBERT,ERNESTO GERARDO,22372992,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4375,ALVAREZ ZEVALLOS,LEONEL CARLOS,95128111,Almagro,ASC,Almagro,ASC,,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4376,Matías Rubén,Amoroso Sinardi,33498051,Almagro,ASC,Almagro,ASC,,YA-THPA,-,"2,00",-,"4,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4377,Mariana Marcela,Barboza,30888592,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4378,BARRO,MATIAS ALEJANDRO,35069087,Belgrano,ASC,Belgrano,ASC,E,YA-THPH,Ausente,-,-,-,-,-,-,-,-,"0,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4379,BAZAN,IVANNA CORINA,29315775,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4380,Amanda Vanesa,Benson,41824831,Almagro,ASC,Almagro,ASC,,YA-THPA,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"4,00",-,-,-
+4381,Lautaro,Bernati,40540591,Almagro,ASC,Almagro,ASC,,YA-THPB,7 - Aprobado,-,-,"9,00","5,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"7,00",-,-,-
+4382,Dan,Berolsky,42292624,Almagro,ASC,Almagro,ASC,,YA-THPB,7 - Aprobado,-,-,"8,00","7,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4383,CAMBIASSO,FRANCO,40890534,Almagro,ASC,Almagro,ASC,,YA-THPH,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4384,Candas,Martin,33409280,Almagro,ASC,Almagro,ASC,,YA-THPB,-,-,-,"2,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4385,Macarena,Chang,36343026,Almagro,ASC,Almagro,ASC,,YA-THPB,6 - Aprobado,"6,00",-,"10,00","2,00","2,00","8,00",-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4386,Chaves,Gabriel,28703785,Almagro,ASC,Almagro,ASC,,YA-THPB,6 - Aprobado,"6,00",-,"8,00","2,00","2,00","0,00",-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4387,Melina Jazmin,Chavez Fernandez,94159662,Almagro,ASC,Almagro,ASC,,YA-THPB,2 - Reprobado,"2,00",-,"2,00","0,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4388,Yecksson Jose,Colmenares Rodriguez,95684462,Almagro,ASC,Almagro,ASC,,YA-THPB,-,-,-,"2,00","2,00",-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4390,Carolina,Dagorret,31202585,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4391,Del Bueno,Facundo Andrés,40910227,Almagro,ASC,Almagro,ASC,,YA-THPC,9 - Aprobado,-,-,"8,00","9,00",-,-,-,-,-,-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4392,Dobzewicz,Matías,33915515,Almagro,ASC,Almagro,ASC,,YA-THPC,6 - Aprobado,"2,00",-,"7,00","5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4393,Dorado Ayala,Julio Ricardo,29682462,Almagro,ASC,Almagro,ASC,,YA-THPC,8 - Aprobado,-,-,"7,00","7,00",-,-,-,-,-,-,"10,00",-,-,-,-,-,"8,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4395,Ghio,Nicolas,42255463,Almagro,ASC,Almagro,ASC,A,YA-THPC,2 - Reprobado,"2,00",-,"5,00","2,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4396,Nicolás,Granado,32155296,Almagro,ASC,Almagro,ASC,,YA-THPC,2 - Reprobado,"2,00",-,"3,00","3,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4397,Lucas,Grance Severo,42301546,Almagro,ASC,Almagro,ASC,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4398,Natanel lucas,Gutkind,38897713,Almagro,ASC,Almagro,ASC,,YA-THPD,8 - Aprobado,-,-,"8,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4400,Federico,Julis,41779135,Almagro,ASC,Almagro,ASC,,YA-THPD,-,-,-,"2,00",-,-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4401,Irina,Ju Tripoloni,41614686,Almagro,ASC,Almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4402,Bettina,Juzielewski,25966258,Almagro,ASC,Almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4403,Lopez,Gisele,35127563,Almagro,ASC,Almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4404,Martínez Benavidez,Santiago,35630770,Almagro,ASC,Almagro,ASC,,YA-THPE,-,"2,00",-,"8,00","1,00",-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,-
+4405,Marcos,Meresman Severo,94090681,Almagro,ASC,Almagro,ASC,,YA-THPD,7 - Aprobado,-,-,"8,00","4,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,"10,00",-,-,"10,00"
+4406,Molina,Gonzalo Martin,36896297,Almagro,ASC,Almagro,ASC,,YA-THPE,8 - Aprobado,-,-,"8,00","8,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4407,Moreno,Jose Maria Enrique,39721702,Almagro,ASC,Almagro,ASC,,YA-THPE,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4408,Pablo,Pentecoste,34873732,Almagro,ASC,Almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4409,Peña,Cintia Viviana,30719462,Almagro,ASC,Almagro,ASC,,YA-THPD,2 - Reprobado,"2,00",-,"6,00","2,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4410,Rocco,Federico Martin,32981917,Almagro,ASC,Almagro,ASC,,YA-THPG,-,"0,00",-,"7,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4411,RODRIGUEZ AGRAY,TANIA,94710493,Almagro,ASC,Almagro,ASC,,YA-THPF,-,"0,00",-,"0,00","0,00",-,-,-,-,"8,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4412,SORIA,MARIA FLORENCIA,39390885,Almagro,ASC,Almagro,ASC,,YA-THPH,9 - Aprobado,-,-,"9,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4413,Suarez Anzorena,Diego Alejandro,27658873,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"6,67",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4414,Ramiro Nicolas,Trigo,35970150,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"5,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4415,Diego Martin,Varela,23505246,Almagro,ASC,Almagro,ASC,,YA-THPC,Ausente,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4416,Vera López,Jonatan,32475317,Almagro,ASC,Almagro,ASC,,YA-THPD,2 - Reprobado,"2,00",-,"6,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4419,Zampogna,Diego Fernando,27576368,Almagro,ASC,Almagro,ASC,,YA-THPG,-,-,-,"0,00","0,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4420,Franco,Lucas Facundo,42931399,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,-,-,"2,00","2,00",-,-,-,-,"9,29",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4421,Gimenez Ordoñez,Gustavo,39371660,-,,-,,,BE-THPE,10 - Aprobado,-,-,"8,00","10,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"9,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4424,Cabañas,Rocio Yanel,31414718,Belgrano,ASC,Belgrano,ASC,,BE-THPB,-,-,-,-,-,-,-,-,-,"5,71",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4425,Maria Victoria,Laspoumaderes,29317242,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,-,-,"2,00",-,-,-,-,-,"7,14",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4426,Martínez,Ursula,27845479,Belgrano,ASC,Belgrano,ASC,,BE-THPD,2 - Reprobado,"2,00",-,"2,00","2,00",-,-,-,-,"9,29",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"2,00",-,-,"10,00"
+4427,Hertzulis,Nicolás,38026914,Belgrano,ASC,Belgrano,ASC,,BE-THPC,8 - Aprobado,-,-,"9,00","8,00",-,-,-,-,"7,14",-,"10,00",-,-,-,-,-,"10,00",-,-,-,10 - Aprobado,-,-,-,-,-,-,-,-,-,"10,00"
+4428,Perotti,Maria Cecilia,25793172,almagro,ASC,almagro,ASC,,YA-THPD,-,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4429,Santostefano,Tomas Agustin,39759785,Almagro,ASC,Almagro,ASC,,YA-THPF,-,-,-,-,-,-,-,-,-,"0,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4430,Ali Eduardo,Ansidey,95501057,Almagro,ASC,Almagro,ASC,,YA-THPG,5 - Aprobado,"2,00",-,"6,00","4,00","0,00",-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4431,Youseff Martin,Chambilla,19002868,Almagro,ASC,Almagro,ASC,,YA-THPG,Ausente,-,-,-,-,-,-,-,-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
+4432,Moroziuk,Federico Andrés,42498851,Almagro,ASC,Almagro,ASC,,YA-THPG,5 - Aprobado,-,-,"7,00","4,00","5,00",-,-,-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4434,Arrieta Marquez,Marcos Antonio,95875995,Belgrano,ASC,Belgrano,ASC,,BE-THPB,9 - Aprobado,-,-,"9,00","9,00",-,-,-,-,"10,00",-,-,-,-,-,-,-,"7,00",-,-,-,8 - Aprobado,-,-,-,-,-,-,-,-,-,-
+4435,Lipa,Patricio Esteban,28232350,Almagro,ASC,Almagro,ASC,,YA-THPB,-,-,-,"2,00","2,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"0,00",-,-,"10,00"
+4436,Brener,Alberto Matias,32990543,Almagro,ASC,Almagro,ASC,,YA-THPH,7 - Aprobado,-,-,"6,00","8,00",-,-,-,-,"10,00",-,"10,00",-,-,-,-,-,"9,00",-,-,-,-,-,-,-,-,-,-,-,-,-,"10,00"
